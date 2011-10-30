@@ -1,10 +1,8 @@
-#!/bin/bash
+#!/bin/bash -e
 [ "x$1" != "x" ] || {
     echo "USAGE: $0 source-folder"
     exit 1
 }
-
-BASE=$(cd ${0%/*} && pwd -P)
 
 cd $1
 
