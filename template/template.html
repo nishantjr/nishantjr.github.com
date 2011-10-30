@@ -6,7 +6,7 @@
         <link rel='stylesheet' href='style.css' />
         <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
     </head>
-<body>
+<body data-page='__LINK__'>
     <div id='content'>
         __CONTENT__
         <div class="fb-comments" data-href="nishantjr.github.com/__LINK__"></div>
@@ -14,5 +14,11 @@
         <ul id='side-bar'>
             __INDEX__
         </ul>
+        <script type='text/javascript'>
+        var anchors = document.getElementsByTagName("A");
+        for (var i = 0; i<anchors.length; i++)
+        if (anchors[i].href.indexOf(document.body.getAttribute("data-page")) != -1)
+        anchors[i].className += " currentpage ";
+        </script>
 </body>
 </html>

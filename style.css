@@ -1,4 +1,8 @@
-* { padding: 0; margin: 0 }
+* {
+    padding: 0;
+    margin: 0;
+/*    border: 1px solid black */
+}
 p { margin:  1em 0 1em 0 }
 h1 {
     font-variant: small-caps; 
@@ -18,8 +22,8 @@ a:link { text-decoration: none; }
     left: 0; right: 0;
     display: block;
     margin: auto;
-    padding-right: 54em; /*Content width + sidebar witdth + 4 */
-    width: 11em;
+    padding-right: 55em; /*Content width + sidebar witdth + 4 */
+    width: 12em;
 
     text-align: right;
 }
@@ -32,15 +36,21 @@ a:link { text-decoration: none; }
     font-size: 0.8em;
 }
 
-a:link { color: #c44 }
+a:link {
+    color: #c44; 
+    padding: 0.2em;
+    display: block-inline;
+}
 a:visited { color: #944 }
 a.currentpage { 
-    background-color: #944;
+    background-color: #c44;
     color: white;
 }
-#side-bar li a:hover { text-decoration: underline }
+#side-bar li a:hover {
+    text-decoration: underline;
+}
 #side-bar li {
-    margin: 0.2em 0 0.2em 0; padding: 0em;
+    margin: 0.2em 0 0.2em 0;
     list-style-type: none;
 }
 

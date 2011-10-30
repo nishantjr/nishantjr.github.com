@@ -22,10 +22,11 @@ do
     title=$(head -n 1 $file)
     name=$(basename $file)
 
-    text=${template/__CONTENT__/$html}
-    text=${text/__TITLE__/$title }
-    text=${text/__LINK__/$name.html}
-    text=${text/__INDEX__/$index_html}
+    #Notice the double backslash -> do global subst
+    text=${template//__CONTENT__/$html}
+    text=${text//__TITLE__/$title }
+    text=${text//__LINK__/$name.html}
+    text=${text//__INDEX__/$index_html}
     echo $text > $name.html
 done
 
