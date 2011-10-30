@@ -6,9 +6,16 @@
 
 cd $1
 
-blog_title="M'uh Blog-o"
 template=$(cat template/template.html)
-index_markdown="$blog_title \n=="
+
+index_html=""
+for file in content/*
+do
+    name=$(basename $file)
+    title=$(head -n 1 $file)
+    index_html="<li><a href='$name.html' title='$name'>$title</a></li> $index_html"
+done
+
 for file in content/*
 do
     html=$(markdown $file)
@@ -18,13 +25,9 @@ do
     text=${template/__CONTENT__/$html}
     text=${text/__TITLE__/$title }
     text=${text/__LINK__/$name.html}
+    text=${text/__INDEX__/$index_html}
     echo $text > $name.html
-
-    index_markdown="$index_markdown \n\n [$title]($name.html \"$name\" )"
 done
 
-html=$( echo -e $index_markdown | markdown )
-text=${template/__CONTENT__/$html}
-text=${text/__TITLE__/$blog_title}
-text=${text/__LINK__/}
-echo $text > index.html
+cp $name.html index.html
+
