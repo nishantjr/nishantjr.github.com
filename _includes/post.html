@@ -15,7 +15,7 @@
     <li>
             <span class='date'>{{post.date | date_to_string}}</span>
             <a href='{{post.url}}'
-                title='{{post.title}}'
+                title='{{post.excerpt}}'
                 {% if post.url == page.url %}
                 class='currentpage'
                 {% endif %}
@@ -27,7 +27,8 @@
 </ul>
 
 <div id='content'>
-<h1>{{page.title}}</h1>
+<img id='cover-pic' src='/images/fuji-title-pic.jpg' />
+<h1 id='title'>{{page.title}}</h1>
     {{content}}
 <div class="fb-comments" data-href="{{site.url}}{{page.url}}"></div>
 </div>

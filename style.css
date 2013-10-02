@@ -3,22 +3,31 @@
     margin: 0;
 }
 p { margin:  1em 0 1em 0 }
-h1 {
-    font-variant: small-caps; 
+
+#title {
     font-size: 1.4em;
-    color: #555;
-    border-bottom: 1px solid #bbb
+    color: #c44;
+    border-bottom: 1px solid #bbb;
 }
 #content {
-    padding-top: 3em;
+    top: 300px;
+    padding: 1em;
     max-width: 40em;
     margin: auto;
+    position: relative;
+    background-color: rgba(256, 256, 256, 0.7);
 }
 a:link { text-decoration: none; }
 #content img {
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+#cover-pic {
+    position: absolute;
+    top: -300px;
+    left: -100px;
+    z-index: -1;
 }
 
 #side-bar {
