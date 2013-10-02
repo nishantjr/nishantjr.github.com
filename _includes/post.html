@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8" />
+    <link rel='stylesheet' href='/style.css' />
+
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+    <meta property="fb:admins" content="509717926" />
+</head>
+<body>
+
+<ul id='side-bar'>
+{% for post in site.posts %}
+    <li>
+            <span class='date'>{{post.date | date_to_string}}</span>
+            <a href='{{post.url}}'
+                title='{{post.title}}'
+                {% if post.url == page.url %}
+                class='currentpage'
+                {% endif %}
+                >
+                {{post.title}}
+            </a>
+     </li>
+{% endfor %}
+</ul>
+
+<div id='content'>
+<h1>{{page.title}}</h1>
+    {{content}}
+<div class="fb-comments" data-href="{{site.url}}{{page.url}}"></div>
+</div>
+
+</body>
+</html>

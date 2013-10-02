@@ -1,5 +1,7 @@
-Tokyo.
-======
+---
+layout: post
+title: Tokyo.
+---
 
 Today we went to Yoyogi park with Rekha (stays in room 403; from Banglore)
 and her friend. Part of the park is thickly wooded (in the middle of Tokyo) 

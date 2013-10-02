@@ -1,5 +1,7 @@
-Food, glorious food.
-====================
+---
+layout: post
+title: Food, glorious food.
+---
 
 Went with Tomo and his friend Yoshisa to a place called 'Na Be Zo' for the first real
 japanese meal. We ate Sukiyaki.

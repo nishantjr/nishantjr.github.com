@@ -1,5 +1,7 @@
-An Interesting 3 Days
-=====================
+---
+layout: post
+title: An Interesting 3 Days
+---
 
 So. 
 Tokyo!

@@ -1,0 +1,6 @@
+# Both these values must be used because changing them would lose facebook
+# comments. The correct url is 'nishantjr.github.io'. I'd prefer
+# /posts/date/title{no-html} as the URL.
+
+url: "nishantjr.github.com"
+permalink: /:year-:month-:day.html
