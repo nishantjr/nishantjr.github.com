@@ -3,6 +3,8 @@
     margin: 0;
 }
 p { margin:  1em 0 1em 0 }
+ul, ol { margin-left: 2em; }
+img { margin: 1em; }
 
 #title {
     font-size: 1.4em;
