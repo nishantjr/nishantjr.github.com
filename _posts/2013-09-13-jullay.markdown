@@ -71,29 +71,12 @@ all downhill from there, but in a good way.
 ![Down in the gutter](/images/leh/road-of-evil.jpg)
 ![It's all downhill from here](/images/leh/all-downhill.jpg)
 
+Supposedly supposed to magnetically attract cars parked in neutral. Lawl. Just
+a [bad optical illusion][magnetic hill]
+
 Met some brake-fixing, pen-knife-giving road-tripping dudes from Bangalore.
 
-Magnetic hill
--------------
-
-Supposedly supposed to magnetically attract cars parked in neutral. Lawl.
-
-Just a [bad optical illusion][magnetic hill]
-
 [magnetic hill]: http://en.wikipedia.org/wiki/Magnetic_hill
-
-
-
-Ladhaki Bhel
-------------
-
-AKA [Wai wai][] noodles - best served uncooked.
-
-[Wai Wai]: http://en.wikipedia.org/wiki/Wai_Wai_(food)
-
-
-Chilling in the Indus
----------------------
 
 Freezing water, if you last 2-3 minutes in the water, the pain give way to
 numbness and it becomes quite nice.
@@ -105,7 +88,7 @@ numbness and it becomes quite nice.
 ![](/images/leh/indus-view-of-bridge.jpg)
 ![](/images/leh/indus-view-of.jpg)
 
-    // Basgo
+<!-- Kids at basgo; ask Madhuri for pics -->
 
 From basgo
 ----------
@@ -113,8 +96,10 @@ From basgo
 ![](/images/leh/nurla-bus.jpg)
 
 Sanju organized Burji at random corner shop at the lunch stop. We discovered
-the addictiveness of Wai Wai noodles. Soon hardly a conversation went without
-it's mention.
+the addictiveness of [Wai Wai][] noodles. Soon hardly a conversation went
+without it's mention.
+
+[Wai Wai]: http://en.wikipedia.org/wiki/Wai_Wai_(food)
 
 Nurla camp
 ----------
@@ -192,3 +177,34 @@ Got back and gathered most of the  group for an 'authentic Tibetan meal'.
 Left the next day via Srinagar
 
 ![](/images/leh/srinagar-boat-houses.jpg)
+
+Strava links
+------------
+
+### Day 1: Cycling around Leh
+
+[Leh base camp to Spituk monastery](http://www.strava.com/activities/83921515)
+
+[Spituk back to leh](http://www.strava.com/activities/83921446)
+
+### Day 2: Leh to Basgo
+
+[Leh to Basgo](http://www.strava.com/activities/83921390)
+
+### Day 3: Basgo to Nurla
+
+[Basgo to Nurla](http://www.strava.com/activities/83921205)
+
+### Day 4: Nurla to Lamayuru
+
+Nothing recorded, phone battery dead.
+
+### Day 5: Lamayuru - Fotula - Kaltse
+
+[Lamayuru to I'm-hungry-point](http://www.strava.com/activities/83921016)
+
+[I'm-hungry-point to Fotula](http://www.strava.com/activities/83920968)
+
+[Fotula to Lamayuru](http://www.strava.com/activities/83920943)
+
+[Lamayuru to Kaltse](http://www.strava.com/activities/83920924)

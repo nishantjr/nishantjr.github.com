@@ -59,6 +59,11 @@ h2 {
     text-transform: uppercase;
 }
 
+h3 {
+    font-size: 1em;
+}
+
+
 #side-bar a:link {
     color: #c44; 
     padding: 0.2em;
