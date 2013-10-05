@@ -15,7 +15,6 @@
     <li>
             <span class='date'>{{post.date | date_to_string}}</span>
             <a href='{{post.url}}'
-                title='{{post.excerpt}}'
                 {% if post.url == page.url %}
                 class='currentpage'
                 {% endif %}
