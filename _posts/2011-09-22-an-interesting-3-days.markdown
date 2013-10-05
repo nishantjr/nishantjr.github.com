@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Interesting 3 Days
+cover: fuji
 ---
 
 So. 

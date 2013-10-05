@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tokyo.
+cover: fuji
 ---
 
 Today we went to Yoyogi park with Rekha (stays in room 403; from Banglore)

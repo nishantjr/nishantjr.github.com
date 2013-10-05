@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fuji-San"
+cover: fuji
 ---
 
 Last weekend we made our trip to Fuji-san. Expecting an easy trip to the top
