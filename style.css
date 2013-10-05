@@ -27,7 +27,7 @@ a:link { text-decoration: none; }
 }
 #cover-pic {
     position: absolute;
-    top: -300px;
+    top: -375px;
     left: -100px;
     z-index: -1;
 }
