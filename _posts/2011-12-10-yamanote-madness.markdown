@@ -18,7 +18,7 @@ was the rainbow bridge - I had planed on walking on the promenade, but was too
 lazy to find the entry.
 
 Hibiya park was really pretty, autumn liked it. Came out from Hibiya park, and
-reached a nice cyle only road, near the Imperial Palace. Reached the Marunouchi
+reached a nice cycle only road, near the Imperial Palace. Reached the Marunouchi
 side of Tokyo station... 'twas being renovated.
 
 Tokyo station is massive. The sign even say 'Tokyo Station City'. And they
@@ -60,11 +60,13 @@ Nishi Nippori: waiit a moment... Oh wait the sign says Fuji-muzaki. Must go.
 graveyard. Waaaaaaiit. Ive been here before. Hah. Now I know I actually saw
 Fuji, not some random bit of night sky.
 
-Nippori. Nishi-nippori. Ask for directions. Attempt to follow them but reach
+Nippori: Ask for directions. Attempt to follow them but reach
 back to where I started from. Ask directions again. Cross tracks. Climb steep
 hill.
 
-Tabata. godforsakensonofabitchifinallyfoundyou. Boring. And at the bottom of a
+Tabata: godforsakensonofabitchifinallyfoundyou.
+
+Boring. And at the bottom of a
 hill. Up the Hill. Cycle. Cycle downhill. Fun. Ask for directions.
 Note-to-self: Always as directions before cycling downhill. Up the hill again.
 
@@ -96,18 +98,18 @@ Oimachi. Omori. Home. 11PM. Bed. Sleeeeeep.
 Monday
 ------
 
-Work. Take Oido subway to Nakai. Change to XXX-shinjuku line.  Reach
-Araiyukucho-mae-eki.  No Cycle.
+Work. Take Oido subway to Nakai. Change to seibu-shinjuku line. Reach
+Araiyukucho-mae-eki. No Cycle.
 
 There is, however, a previously unnoticed no-parking sign.
 
 Koban. HEhhhh .... I've been here before. Its the same Ghost-koban I saw near
 mejiro. Only nonw there is some one inside now.
 
-Explain all about cycle and no parking area to man in koban.  Interestingly he
-recognised the picture of the beatles that is my kindl screensaver.  He seems
+Explain all about cycle and no parking area to man in koban. Interestingly he
+recognised the picture of the beatles that is my kindl screensaver. He seems
 to believe that it is stolen. File report. Ask about impound and tell about no
-parking area. He-no-understand-I-think.  Ramen for dinner. Home.
+parking area. He-no-understand-I-think. Ramen for dinner. Home.
 
 Wednesday
 ---------
@@ -115,11 +117,11 @@ Wednesday
 Work. Ask someone about bicycle impound. someone else calls up the nakano-ku
 impound.
 
-Ari masu. They have it.  Go-sen-yen. Y5000.
+Ari masu. They have it. Go-sen-yen. Y5000.
 
 Got there. get cycle pay up. Go to nakano broadway... buy sweater and shirt.
 Look for keys. Woops. No keys. Wonder. Go to Hyaku yen shop buy cheap saw cut?
-Go Koban? Go koban. Explain watashi no jitansha no kagi lost-o desu.  ID.
+Go Koban? Go koban. Explain: watashi no jitansha no kagi lost-o desu. ID.
 Passport copy. 
 
 So Here I am, 15 km from home. 10km from work. I'm asking a cop to break a lock
@@ -127,8 +129,8 @@ of a cycle. The bicycle is reported stolen. The only ID I have is a copy of my
 passport. I don't know why but they were a little suspicious of me.
 
 Eventually, after much beating around the bush, I am asked to step get into a
-patrol vehicle, and taken to Nakano police station.  I wait for an hour, as
-they check my VISA details.  Eventually I'm let go with a promise, that I would
+patrol vehicle, and taken to Nakano police station. I wait for an hour, as
+they check my VISA details. Eventually I'm let go with a promise, that I would
 tell the Tazuka Police that my bicycle was found.
 
 Thus ends the adventures of Man Lost in Tokyo.
