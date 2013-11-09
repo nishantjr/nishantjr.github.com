@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Yamanote and and being taught Japanese but the police 
+title: The Yamanote
+tag-line: ... and learning Japanese at Kobans...
 cover: fuji
 ---
 

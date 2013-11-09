@@ -9,8 +9,17 @@ img { margin: 1em; }
 #title {
     font-size: 1.4em;
     color: #c44;
+    display: inline-block;
+}
+
+#tag-line {
+    font-style: italic;
+    float: right;
+}
+header {
     border-bottom: 1px solid #bbb;
 }
+
 #content {
     top: 300px;
     padding: 1em;
