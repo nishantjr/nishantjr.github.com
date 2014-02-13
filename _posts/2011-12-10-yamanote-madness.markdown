@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Yamanote
-tag-line: ... and learning Japanese at Kobans...
+tag-line: ... learning Japanese at Kobans...
 cover: fuji
 ---
 
