@@ -1,3 +1,4 @@
+/* Reset */
 * {
     padding: 0;
     margin: 0;
@@ -6,29 +7,14 @@ p { margin:  1em 0 1em 0 }
 ul, ol { margin-left: 2em; }
 img { margin: 1em; }
 
-#title {
-    font-size: 1.4em;
-    color: #c44;
-    display: inline-block;
-}
-
-#tag-line {
-    font-style: italic;
-    float: right;
-}
-header {
-    border-bottom: 1px solid #bbb;
-}
+/* Layout */
 
 #content {
     top: 300px;
-    padding: 1em;
     max-width: 40em;
     margin: auto;
     position: relative;
-    background-color: rgba(256, 256, 256, 0.7);
 }
-a:link { text-decoration: none; }
 #content img {
     margin-left: auto;
     margin-right: auto;
@@ -52,6 +38,22 @@ a:link { text-decoration: none; }
 
     text-align: right;
 }
+
+/* Styling */
+
+#title {
+    font-size: 1.4em;
+    color: #c44;
+    display: inline-block;
+}
+#tag-line {
+    font-style: italic;
+    float: right;
+}
+
+header {
+    border-bottom: 1px solid #bbb;
+}
 #side-bar:before { content: "newest" }
 #side-bar:after  { content: "oldest" }
 
@@ -72,6 +74,10 @@ h3 {
     font-size: 1em;
 }
 
+#content {
+    background-color: rgba(256, 256, 256, 0.7);
+    padding: 1em;
+}
 
 #side-bar a:link {
     color: #c44; 
@@ -90,6 +96,7 @@ h3 {
     margin: 0.2em 0 0.2em 0;
     list-style-type: none;
 }
+a:link { text-decoration: none; }
 .date {
     font-size: 0.6em;
     color: #777;
