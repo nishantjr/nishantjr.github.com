@@ -12,15 +12,9 @@
 
 <ul id='side-bar'>
 {% for post in site.posts %}
-    <li>
+    <li {% if post.url == page.url %} class='currentpage' {% endif %} >
             <span class='date'>{{post.date | date_to_string}}</span>
-            <a href='{{post.url}}'
-                {% if post.url == page.url %}
-                class='currentpage'
-                {% endif %}
-                >
-                {{post.title}}
-            </a>
+            <a href='{{post.url}}'>{{post.title}}</a>
      </li>
 {% endfor %}
 </ul>

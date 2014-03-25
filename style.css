@@ -69,7 +69,7 @@ header {
 #side-bar:before { content: "newest" }
 #side-bar:after  { content: "oldest" }
 
-#side-bar:after,#side-bar:before  { 
+#side-bar:after,#side-bar:before  {
     font-variant: small-caps;
     color: #999;
     font-size: 0.8em;
@@ -88,12 +88,12 @@ h2 {
 }
 
 #side-bar a:link {
-    color: #c44; 
+    color: #c44;
     padding: 0.2em;
     display: block-inline;
 }
 #side-bar a:visited { color: #944 }
-#side-bar a.currentpage { 
+#side-bar .currentpage a {
     background-color: #c44;
     color: white;
 }
