@@ -7,8 +7,6 @@ cover: fuji
 Went with Tomo and his friend Yoshisa to a place called 'Na Be Zo' for the first real
 japanese meal. We ate Sukiyaki.
 
-        // thank you google for telling me the name
-
 There's a bowl of hot soupish/oilish/something on a stove in the middle of the table.
 There's a stack or trays filled with pork and beef (slooooooberrrrr) on one side.
 And there's 3 pots of (spicey by tokyo-standards)'s/sauses.
@@ -22,7 +20,7 @@ They also tought us some Japanese:
 
 "Anata wa kawaii desu"  
 
-        // translations would give you a hint about the waitress.
+Translations would give you a hint about the waitress.
 
 "ii ne"
 
