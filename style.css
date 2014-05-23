@@ -20,7 +20,7 @@ body {
 }
 
 #content {
-    max-width: 640px;
+    max-width: 800px;
 }
 #cover-pic {
     position: absolute;
@@ -60,8 +60,8 @@ header { position: relative; }
 
 h1 { font-size: 28px; }
 h2 { font-size: 22px; }
-h3 { font-size: 18px; }
-#content { font-size: 18px; }
+h3 { font-size: 20px; }
+#content { font-size: 20px; }
 
 header {
     border-bottom: 1px solid #bbb;
