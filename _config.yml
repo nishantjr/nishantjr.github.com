@@ -4,3 +4,4 @@
 
 url: "nishantjr.github.com"
 permalink: /:year-:month-:day.html
+markdown: kramdown
