@@ -4,6 +4,7 @@
     <title>{{page.title}}</title>
     <meta charset="utf-8" />
     <link rel='stylesheet' href='/style.css' />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
@@ -11,7 +12,8 @@
 </head>
 <body>
 
-<ul id='side-bar'>
+<div id='side-bar'>
+<ul>
 {% for post in site.posts %}
     <li {% if post.url == page.url %} class='currentpage' {% endif %} >
             <span class='date'>{{post.date | date_to_string}}</span>
@@ -19,6 +21,19 @@
      </li>
 {% endfor %}
 </ul>
+<address id='about'>
+    Nishant Rodrigues
+        <a href='mailto:nishantjr@gmail.com'>{% icon fa-envelope %}</a>
+        <a href='http://github.com/nishantjr'>{% icon fa-github %}</a>
+        <a href='http://stackoverflow.com/users/1278288/nishantjr'>{% icon fa-stack-overflow %}</a>
+</address>
+    <a rel="license"
+        href="http://creativecommons.org/licenses/by-nc/4.0/">
+    <img alt="Creative Commons License"
+         src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" />
+    </a>
+</div>
+</div>
 
 <div id='content'>
 <header>
