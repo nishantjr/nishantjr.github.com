@@ -1,0 +1,146 @@
+/* Reset */
+* {
+    padding: 0;
+    margin: 0;
+}
+#content p { margin:  1em 0 1em 0 }
+#content ul, ol { margin-left: 2em; }
+#content img { margin: 1em; }
+
+/* Layout */
+
+#side-bar, #content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    background: url('/images/covers/fuji.jpg') no-repeat center -100px;
+    padding-top: 300px;
+    margin: auto;
+    max-width: 1100px;
+}
+
+#content {
+    max-width: 800px;
+}
+
+#side-bar {
+    width: 200px;
+    text-align: right;
+}
+
+/* right-align tagline */
+header { position: relative; }
+#tag-line {
+    position: absolute;
+    right: 0px; bottom: 0px;
+}
+
+/* Styling */
+
+#title {
+    font-size: 1.4em;
+    color: #c44;
+    display: inline-block;
+}
+
+#tag-line {
+    font-style: italic;
+}
+
+#content img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 22px; }
+h3 { font-size: 18px; }
+#content { font-size: 18px; }
+
+header {
+    border-bottom: 1px solid #bbb;
+}
+
+#side-bar:after,#side-bar:before  {
+    font-variant: small-caps;
+    color: #999;
+    font-size: 0.8em;
+}
+
+h2 {
+    color: #444;
+    margin-top: 2em;
+    text-transform: uppercase;
+}
+
+#content {
+    background-color: rgba(256, 256, 256, 0.7);
+    padding: 1em;
+    padding-top: 0px;
+}
+
+#side-bar a:link {
+    color: #c44;
+    padding: 0.2em;
+    display: block-inline;
+}
+#side-bar a:visited { color: #944 }
+#side-bar .currentpage a {
+    background-color: #c44;
+    color: white;
+}
+#side-bar li a:hover {
+    text-decoration: underline;
+}
+#side-bar li {
+    margin: 0.2em 0 0.2em 0;
+    list-style-type: none;
+}
+a:link { text-decoration: none; }
+#side-bar .date {
+    font-size: 0.6em;
+    color: #777;
+}
+
+img {
+    max-width: 95%;
+}
+
+@media screen and (max-width: 1100px) {
+
+#side-bar li {
+    display: none;
+}
+#side-bar {
+    background: white;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    width: auto;
+    z-index:999;
+}
+#side-bar:before {
+    display: block;
+    content: " ";
+    background: #fff url(images/site/menu.png) no-repeat 6px 6px;
+    width: 25px;
+    height: 25px;
+}
+#side-bar:hover li {
+    display: block;
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#side-bar .currentpage a { background: none; }
+#side-bar .currentpage {
+    background-color: #c44;
+    color: white;
+}
+#side-bar .currentpage .date { color: white; }
