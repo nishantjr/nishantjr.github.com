@@ -6,9 +6,6 @@
     <link rel='stylesheet' href='/style.css' />
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
-    <meta property="fb:admins" content="509717926" />
     <style>
         body {
         background: url('/images/covers/{{page.cover}}.jpg') no-repeat center -100px;
@@ -48,8 +45,6 @@
     <span id='tag-line'>{{page.tag-line}}</span>
 </header>
 {{content}}
-<div class="fb-comments" data-href="{{site.url}}{{page.url}}"></div>
-</div>
-
+{% include comments.html %}
 </body>
 </html>
