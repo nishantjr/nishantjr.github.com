@@ -1,0 +1,15 @@
+<div id='gallery-{{include.gallery | escape}}' class='gallery'>
+<div>{{include.title}}</div>
+{% for images in page.gallery %}
+
+{% if images[0] == include.gallery %}
+{% for image in images[1] %}
+<figure class='gallery-item'>
+<figcaption><strong>{{image.title}}</strong>: {{image.details}}</figcaption>
+<img title='{{image.title | escape}}' alt='{{image.title | escape}}' src='images/{{image.src}}' />
+</figure>
+{% endfor %}
+{% endif  %}
+
+{% endfor %}
+</div>

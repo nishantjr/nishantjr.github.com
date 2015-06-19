@@ -2,6 +2,105 @@
 layout: post
 title: Kashmir & Ladhak
 cover: ladhak
+
+gallery:
+  sonamarg:
+  - src: "kashmir-ladhak/srinagar-dal-lake.jpg"
+    title: "Dal Lake"
+    details: "Saahil: 'How dissapointing. It's just water, not of dal.'"
+  - src: "kashmir-ladhak/srinagar-bye-bye.jpg"
+    title: "Goodbye Srinagar"
+    details: " and our second breakfast"
+  - src: "kashmir-ladhak/srinagar-riverside.jpg"
+    title: "Goodbye Srinagar"
+  - src: "kashmir-ladhak/srinagar-tea-break.jpg"
+    details: "The first of many tea-breaks"
+  - src: "kashmir-ladhak/srinagar-bikes-posing.jpg"
+    title: "Aren't they pretty?"
+    details: "They're all clean and shiny... for the last time."
+  - src: "kashmir-ladhak/srinagar-meal-three.jpg"
+    title: "Day 1 / Meal 3"
+    details: "Hipster Saahil and salty bajiyas"
+  - src: "kashmir-ladhak/srinagar-meal-four.jpg"
+    title: "Day 1 / Meal 4"
+    details: "Waiting for sheeks"
+  zojila:
+  - src: "kashmir-ladhak/sonamarg-omelette-of-the-mountains.jpg"
+    title: "Oily Omelette of the Mountains"
+  - src: "kashmir-ladhak/sonamarg-so-smiley.jpg"
+    title: "So smiley"
+    details: "does not know what lies ahead."
+  - src: "kashmir-ladhak/sonamarg-saahil-breakfast.jpg"
+  - src: "kashmir-ladhak/sonamarg-pee-break.jpg"
+    title: "Watchaa looking at?"
+    details: "Nothing to see move along."
+  - src: "kashmir-ladhak/sonamarg-on-the-side-of-the-mountain.jpg"
+    title: "The perfect place for a snack"
+  - src: "kashmir-ladhak/sonamarg-impressionable-young-uns.jpg"
+  - src: "kashmir-ladhak/sonamarg-appreciate-the-view.jpg"
+  - src: "kashmir-ladhak/sonamarg-walk-the-bike.jpg"
+    title: "Cycling the himalayas... It'll be fun they said."
+  - src: "kashmir-ladhak/sonamarg-wall-of-ice.jpg"
+    title: "A wall of ice"
+  - src: "kashmir-ladhak/sonamarg-river-or-road.jpg"
+    title: "River or road?"
+  - src: "kashmir-ladhak/sonamarg-selfie-towel-head.jpg"
+    title: "Do I need my gloves?"
+  - src: "kashmir-ladhak/sonamarg-sweet-paver-blocks.jpg"
+    title: "Sweet sweet paver blocks"
+  - src: "kashmir-ladhak/sonamarg-why-is-the-road-so-good.jpg"
+    title: "What is this nonsense?! Why is the road so good?"
+  - src: "kashmir-ladhak/sonamarg-chai-stall-from-heaven.jpg"
+    title: "All is forgiven. There is Kawah."
+  - src: "kashmir-ladhak/sonamarg-sarjar-and-warmth.jpg"
+    title: "Thank you Sarjar - we owe you."
+  - src: "kashmir-ladhak/sonamarg-i-can-feel-my-toes-again.jpg"
+    title: "I can feel my toes again."
+  - src: "kashmir-ladhak/sonamarg-ghost-stories.jpg"
+    title: "Ghost stories"
+  dras:
+  - src: "kashmir-ladhak/dras/i-hate-to-say-goodbye.jpg"
+    title: "I hate to say goodbye"
+  - src: "kashmir-ladhak/dras/eyes-on-the-horizon.jpg"
+  - src: "kashmir-ladhak/dras/the-land-of-ice-and-snow.jpg"
+    title: "The land of Ice and Snow"
+  - src: "kashmir-ladhak/dras/rolling.jpg"
+    title: "All weather cycle gear: Slippers"
+  - src: "kashmir-ladhak/dras/the-road-ahead.jpg"
+  - src: "kashmir-ladhak/dras/so-cold.jpg"
+  - src: "kashmir-ladhak/dras/kick-starting.jpg"
+    title: "I don't think you need to kick start a cycle."
+  - src: "kashmir-ladhak/dras/good-old-rubber-chappals.jpg"
+  - src: "kashmir-ladhak/dras/the-problem-with-the-himalayas.jpg"
+    title: "The problem with the himalayas..."
+    details: "is that they're too big. They dont fit in the camera frame.
+    Saahil's a speck in the center"
+  - src: "kashmir-ladhak/dras/yawn-the-view.jpg"
+    title: "Yawwwn. Such a boring view"
+  - src: "kashmir-ladhak/dras/dunno.jpg"
+  - src: "kashmir-ladhak/dras/moo-cow-moo.jpg"
+  - src: "kashmir-ladhak/dras/ups-and-downs.jpg"
+    title: "There are many ups and downs and the road is rough..."
+  - src: "kashmir-ladhak/dras/army-cut-road.jpg"
+    title: "Cut right through the hills"
+  - src: "kashmir-ladhak/dras/selfie-2.jpg"
+  - src: "kashmir-ladhak/dras/the-long-and-winding-road.jpg"
+    title: "The long and winding road"
+  - src: "kashmir-ladhak/dras/so-much-smiling.jpg"
+    title: "So much smiling"
+  - src: "kashmir-ladhak/dras/so-much-more-smiling.jpg"
+    title: "So much more smiling"
+  - src: "kashmir-ladhak/dras/the-fifth-puncture.jpg"
+    title: "The Fifth Puncture"
+  - src: "kashmir-ladhak/dras/kargil-battle-school-visit-again.jpg"
+    title: "Kargil Battle School - Visit again"
+  - src: "kashmir-ladhak/dras/drass-view.jpg"
+    title: "Dras view"
+  - src: "kashmir-ladhak/dras/saahil-dras-view.jpg"
+---
+
+Checked in to 'Lonely Guest House' in Shrinagar, and made friends with Aijas,
+the owner quickly. Drank Kawah and upacked our bikes. He gave us space to keep
 ---
 
 Checked in to 'Lonely Guest House' in Shrinagar, and made friends with Aijas,
@@ -36,6 +135,8 @@ next hotel we find and settle in for dinner at a place 15km before Sonamarg.
 Sleeping soundly with the sweet knowledge that there's just 20km of climbing and
 40km of downhill scheduled for the next day.
 
+{% include gallery.html gallery='sonamarg' title='Day 1: Srinagar to Sonamarg' %}
+
 We leave around 10:30 the next day after a staple oily omelette breakfast and
 head out towards Zojila. Cycling the gradual accent to Sonamarg, we reach there
 in time for an early lunch not sure when the next stop will be. As we go ahead,
@@ -68,11 +169,15 @@ Sarjar and his friends came from a village not far from Srinagar and have been
 setting up this tea stall at the top of the pass for the last 4-5 years. They
 stay at the zero-point taking turns to return for supplies every 2 weeks.
 
+{% include gallery.html gallery='zojila' title='Day 2: Sonamarg to Zojila' %}
+
 We left the warm comfort of the tents at 10 the next morning, wearing slippers
 since our shoes had frozen solid! The roads were downhill, but quite damaged by
 the winter ice. We patched 5-6 punctures that day, reaching Dras around 5pm.  In
 Dras, we had our first taste of Wazwan with the Rogan Josh from the place across
 the hotel. We ate, showered and fell asleep by 9:30.
+
+{% include gallery.html gallery='dras' title='Day 3: Zojila to Dras' %}
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
 Amit and Binoy, who had started the day after we left Srinagar. They'd made it

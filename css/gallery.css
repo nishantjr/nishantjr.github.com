@@ -1,0 +1,42 @@
+.gallery {
+    background: #eee;
+    padding: 5px;
+}
+
+.gallery-item {
+    display: table;
+    border: 1px solid black;
+    border-bottom: none;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background: #222;
+    border-radius: 8px 8px 0px 0px;
+    padding: 6px;
+}
+.gallery-item figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    border: 1px solid black;
+    border-top: none;
+    padding: 8px;
+    padding-top: 4px;
+    background: #282828;
+    color: white;
+    border-radius: 0px 0px 8px 8px; 
+    font-size: 80%;
+}
+
+#content img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#content .gallery-item img {
+    display: block;
+    width: 100%;
+    margin-bottom: 0;
+}
