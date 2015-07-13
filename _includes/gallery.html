@@ -6,7 +6,11 @@
 {% for image in images[1] %}
 <figure class='gallery-item'>
 <figcaption><strong>{{image.title}}</strong>: {{image.details}}</figcaption>
-<img title='{{image.title | escape}}' alt='{{image.title | escape}}' src='images/{{image.src}}' />
+<a href='{{page.gallery_prefix}}/{{images[0]}}/{{image.src}}'>
+<img title='{{image.title | escape}}'
+     alt='{{image.title | escape}}'
+     src='{{page.gallery_prefix}}/{{images[0]}}/750x500/{{image.src}}' />
+</a>
 </figure>
 {% endfor %}
 {% endif  %}
