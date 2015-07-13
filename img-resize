@@ -1,1 +1,0 @@
-(cd _orig_images/; find -type f -exec convert {} -resize 600x ../images/{} \;)
