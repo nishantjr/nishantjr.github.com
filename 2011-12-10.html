@@ -3,10 +3,26 @@
 <head>
     <title>The Yamanote</title>
     <meta charset="utf-8" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="http://responsiveslides.com/responsiveslides.min.js"></script>
+    <script>
+      $(function() {
+          $(".gallery").responsiveSlides({
+              auto: false,
+              pager: true,
+              nav: true,
+              namespace: "gallery",
+              prevText: "&#xab;",
+              nextText: "&#xbb;",
+              });
+      });
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel='stylesheet' href='/style.css' />
     <link rel='stylesheet' href='/css/gallery.css' />
+    <link rel='stylesheet' href='/css/mobile.css' />
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
         background: url('/images/covers/fuji.jpg') no-repeat center -100px;
