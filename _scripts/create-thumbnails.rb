@@ -7,8 +7,8 @@ include Magick
 ARGV.empty? && raise('Usage: PROG <dir>')
 dir = File.expand_path(ARGV.shift)
 
-height = 750
-width = 500
+height = 800
+width = 533
 preview_dir = File.join(dir, "#{height}x#{width}")
 
 FileUtils::mkdir_p(preview_dir)
