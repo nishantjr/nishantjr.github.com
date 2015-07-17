@@ -60,7 +60,10 @@ gallery:
     title: "I can feel my toes again."
   - src: "ghost-stories.jpg"
     title: "Ghost stories"
-  dras:
+  zojila:
+  - src: "slippers-ofcourse.jpg"
+    title: "Real men wear slippers"
+    details: "Our shoes were frozen solid, so we wore slippers."
   - src: "i-hate-to-say-goodbye.jpg"
     title: "I hate to say goodbye"
   - src: "eyes-on-the-horizon.jpg"
@@ -99,6 +102,55 @@ gallery:
   - src: "drass-view.jpg"
     title: "Dras view"
   - src: "saahil-dras-view.jpg"
+  kargil:
+  - src: "kargil-night-photo-building.jpg"
+  - src: "kargil-night-photo-silhouette.jpg"
+  - src: "goodbye-kargil.jpg"
+  - src: "goodbye-kargil-2.jpg"
+  - src: "puncture-free.jpg"
+  - src: "post-kargil-roads.jpg"
+  - src: "post-kargil-roads-2.jpg"
+  - src: "post-kargil-roads-3.jpg"
+  - src: "military-convoy.jpg"
+  - src: "big-rock.jpg"
+  - src: "the-tourist-attraction.jpg"
+  - src: "but-foods-more-important.jpg"
+  - src: "the-mulbek-view.jpg"
+  - src: "snowing.jpg"
+  - src: "snowing-2.jpg"
+  namik-la:
+  - src: "010-reached.jpg"
+  - src: "020-talking-to-truck-drivers.jpg"
+  - src: "030-prayer-flags-wecome-us.jpg"
+  - src: "040-selfie-1.jpg"
+  - src: "050-selfie-2.jpg"
+  - src: "060-saahils-new-friend.jpg"
+  - src: "070-saahils-new-friend-2.jpg"
+  - src: "080-saahils-new-friend-3.jpg"
+  - src: "090-begining-to-decend.jpg"
+  - src: "100-are-we-there.jpg"
+  - src: "110-everything-the-ligh-touches.jpg"
+  - src: "120-julley-kharbu.jpg"
+  - src: "130-enquiring-about-lodging.jpg"
+  - src: "140-cozy-homestay.jpg"
+  - src: "150-cozy-homestay-2.jpg"
+  kharbu:
+  - src: "010-mountains-being-dramatic.jpg"
+  - src: "020-mountains-being-dramatic-2.jpg"
+  - src: "030-mountains-being-dramatic-3.jpg"
+  - src: "040-saahil-posing-and-cycling.jpg"
+  - src: "050-what-more-climbing.jpg"
+  - src: "060-fotula-top-is-reached.jpg"
+  - src: "070-group-selfie.jpg"
+  - src: "080-saahil-weird-face.jpg"
+  - src: "085-me-and-my-beau.jpg"
+  - src: "090-saahil-on-dramatic-mountian.jpg"
+  - src: "100-yay-downhill.jpg"
+  - src: "110-looking-at-lamayuru.jpg"
+  - src: "120-lamayuru-being-dramatic.jpg"
+  - src: "130-lunch-time.jpg"
+  - src: "140-flags.jpg"
+  - src: "150-nurla-bridge.jpg"
 ---
 
 Checked in to 'Lonely Guest House' in Shrinagar, and made friends with Aijas,
@@ -175,7 +227,7 @@ the winter ice. We patched 5-6 punctures that day, reaching Dras around 5pm.  In
 Dras, we had our first taste of Wazwan with the Rogan Josh from the place across
 the hotel. We ate, showered and fell asleep by 9:30.
 
-{% include gallery.html gallery='dras' title='Day 3: Zojila to Dras' %}
+{% include gallery.html gallery='zojila' title='Day 3: Zojila to Dras' %}
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
 Amit and Binoy, who had started the day after we left Srinagar. They'd made it
@@ -205,6 +257,9 @@ Guest house but turns out that there's no one there. Eat maggi and omelette for
 dinner again, and are taken to a homestay. And of course, we clean our bikes
 have baths and a shave ummm...
 
+{% include gallery.html gallery='kargil' title='Day 5: Kargil to Kharbu' %}
+{% include gallery.html gallery='namik-la' title='Day 5: Snow at Namik-La' %}
+
 Left Kharbu by 9 and had eaten two breakfasts by 10: coffee and omelettes at the
 Marathi Army Cafe - they serve wada pav, but we went too early; and fresh
 heavenly carb-filled aloo parathas. We climbed Fotula top around 2, and reached
@@ -214,6 +269,8 @@ years ago. Passing Khaltse, our planned stop for the night, we pushed on to
 Nurla. At Nurla, the (extremely pretty) resort we'd stayed at the last time was
 booked full, and the only other place in town was Rs 6000 a night, but we
 managed to find a very comfortable homestay.
+
+{% include gallery.html gallery='kharbu' title='Day 6: Zojila to Dras' %}
 
 From Nurla to Leh was quite uneventful, eating at Basgo, ignoring magnetic hill,
 tea at Pathar Sahib Gurudvara. The road of evil, christened 2 years ago was an
