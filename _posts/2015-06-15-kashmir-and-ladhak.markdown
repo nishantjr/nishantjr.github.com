@@ -60,7 +60,7 @@ gallery:
     title: "I can feel my toes again."
   - src: "ghost-stories.jpg"
     title: "Ghost stories"
-  zojila:
+  dras:
   - src: "i-hate-to-say-goodbye.jpg"
     title: "I hate to say goodbye"
   - src: "eyes-on-the-horizon.jpg"
@@ -99,10 +99,6 @@ gallery:
   - src: "drass-view.jpg"
     title: "Dras view"
   - src: "saahil-dras-view.jpg"
----
-
-Checked in to 'Lonely Guest House' in Shrinagar, and made friends with Aijas,
-the owner quickly. Drank Kawah and upacked our bikes. He gave us space to keep
 ---
 
 Checked in to 'Lonely Guest House' in Shrinagar, and made friends with Aijas,
@@ -179,7 +175,7 @@ the winter ice. We patched 5-6 punctures that day, reaching Dras around 5pm.  In
 Dras, we had our first taste of Wazwan with the Rogan Josh from the place across
 the hotel. We ate, showered and fell asleep by 9:30.
 
-{% include gallery.html gallery='zojila' title='Day 3: Zojila to Dras' %}
+{% include gallery.html gallery='dras' title='Day 3: Zojila to Dras' %}
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
 Amit and Binoy, who had started the day after we left Srinagar. They'd made it
