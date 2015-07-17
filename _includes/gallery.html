@@ -1,11 +1,12 @@
+<div class='gallery-container'>
+<div class='gallery-header'>{{include.title}}</div>
 <div id='gallery-{{include.gallery | escape}}' class='gallery'>
-<div>{{include.title}}</div>
 {% for images in page.gallery %}
 
 {% if images[0] == include.gallery %}
 {% for image in images[1] %}
 <figure class='gallery-item'>
-<figcaption><strong>{{image.title}}</strong>: {{image.details}}</figcaption>
+<figcaption><strong>{{image.title}}</strong> {{image.details}}</figcaption>
 <a href='{{page.gallery_prefix}}/{{images[0]}}/{{image.src}}'>
 <img title='{{image.title | escape}}'
      alt='{{image.title | escape}}'
@@ -14,6 +15,6 @@
 </figure>
 {% endfor %}
 {% endif  %}
-
 {% endfor %}
+</div>
 </div>
