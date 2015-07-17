@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
     <script src="js/responsiveslides.min.js"></script>
+    <script src="js/jquery.lazyload.min.js"></script>
     <script>
       $(function() {
           $(".gallery").responsiveSlides({
@@ -15,6 +16,7 @@
               prevText: "&#xab;",
               nextText: "&#xbb;",
               });
+          $(".gallery img").lazyload();
       });
     </script>
 
