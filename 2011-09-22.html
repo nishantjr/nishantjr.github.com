@@ -4,8 +4,7 @@
     <title>An Interesting 3 Days</title>
     <meta charset="utf-8" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-    <script src="js/responsiveslides.min.js"></script>
-    <script src="js/jquery.lazyload.min.js"></script>
+    <script src="js/responsiveslides.js"></script>
     <script>
       $(function() {
           $(".gallery").responsiveSlides({
@@ -15,8 +14,13 @@
               namespace: "gallery",
               prevText: "&#xab;",
               nextText: "&#xbb;",
+              before: function() {
+                /* Allow the images to be loaded only when needed. */
+                var image = $(this).find("img");
+                var source = image.data('source');
+                if (source) image.attr("src", source);
+              }
               });
-          $(".gallery img").lazyload();
       });
     </script>
 
@@ -29,7 +33,6 @@
         body {
         background: url('/images/covers/fuji.jpg') no-repeat center -100px;
         }
-
     </style>
 </head>
 <body>
