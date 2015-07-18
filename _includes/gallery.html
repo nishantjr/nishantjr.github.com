@@ -1,3 +1,5 @@
+{% assign image_width='800' %}
+{% assign image_height='533' %}
 <div class='gallery-container'>
 <div class='gallery-header'>{{include.title}}</div>
 <div id='gallery-{{include.gallery | escape}}' class='gallery'>
@@ -10,7 +12,15 @@
 <a href='{{page.gallery_prefix}}/{{images[0]}}/{{image.src}}'>
 <img title='{{image.title | escape}}'
      alt='{{image.title | escape}}'
-     data-original='{{page.gallery_prefix}}/{{images[0]}}/800x533/{{image.src}}' />
+     height='{{image_height}}'
+     width='{{image_width}}'
+{% capture url %}{{page.gallery_prefix}}/{{images[0]}}/{{image_width}}x{{image_height}}/{{image.src}}{% endcapture %}
+{% if forloop.first == true %}
+     src='{{url}}'
+{% else %}
+     data-source='{{url}}'
+{% endif %}
+     />
 </a>
 </figure>
 {% endfor %}
