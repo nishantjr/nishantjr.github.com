@@ -188,9 +188,9 @@ Sleeping soundly with the sweet knowledge that there's just 20km of climbing and
 {% include gallery.html gallery='srinagar' title='Day 1: Srinagar to Sonamarg' %}
 
 We leave around 10:30 the next day after a staple oily omelette breakfast and
-head out towards Zojila. Cycling the gradual accent to Sonamarg, we reach there
+head out towards Zojila. Cycling the gradual ascent to Sonamarg, we reach there
 in time for an early lunch not sure when the next stop will be. As we go ahead,
-the accent becomes steeper, the two-lane highway turns into one-lane, and as
+the ascent becomes steeper, the two-lane highway turns into one-lane, and as
 trucks stop to give their engines a break, less than that. The road is
 completely destroyed by the glaciers that covered the road in winter. Walls of
 ice on either side, some 2-3 stories high. There's not a Chai wala in sight.
