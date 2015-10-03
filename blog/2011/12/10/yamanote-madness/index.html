@@ -3,28 +3,9 @@
 <head>
     <title>The Yamanote</title>
     <meta charset="utf-8" />
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-    <script src="js/responsiveslides.js"></script>
-    <script>
-      $(function() {
-          $(".gallery").responsiveSlides({
-              auto: false,
-              pager: true,
-              nav: true,
-              namespace: "gallery",
-              prevText: "&#xab;",
-              nextText: "&#xbb;",
-              before: function() {
-                /* Allow the images to be loaded only when needed. */
-                var image = $(this).find("img");
-                var source = image.data('source');
-                if (source) image.attr("src", source);
-              }
-              });
-      });
-    </script>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="/js/gallery.js"></script>
     <link rel='stylesheet' href='/style.css' />
     <link rel='stylesheet' href='/css/gallery.css' />
     <link rel='stylesheet' href='/css/mobile.css' />
@@ -36,47 +17,52 @@
     </style>
 </head>
 <body>
-
 <div id='side-bar'>
-<ul>
+<a class='home' href='/'>About</a>
+<ul class='nav'>
 
     <li  >
-            <span class='date'>15 Jun 2015</span>
-            <a href='/2015-06-15.html'>Kashmir & Ladhak</a>
+            <span class='date'>04 Oct 2015</span>
+            <a href='/blog/2015/10/04/kashmir-and-ladhak-2/'>K&L 2: Zoji La to Leh</a>
+     </li>
+
+    <li  >
+            <span class='date'>03 Oct 2015</span>
+            <a href='/blog/2015/10/03/kashmir-and-ladhak-1/'>K&L 1: Srinagar to Zoji La</a>
      </li>
 
     <li  >
             <span class='date'>13 Sep 2013</span>
-            <a href='/2013-09-13.html'>Jullay!</a>
+            <a href='/blog/2013/09/13/jullay/'>Jullay!</a>
      </li>
 
     <li  >
             <span class='date'>15 Sep 2012</span>
-            <a href='/2012-09-15.html'>Fuji-San</a>
+            <a href='/blog/2012/09/15/fuji-san/'>Fuji-San</a>
      </li>
 
     <li  class='currentpage'  >
             <span class='date'>10 Dec 2011</span>
-            <a href='/2011-12-10.html'>The Yamanote</a>
+            <a href='/blog/2011/12/10/yamanote-madness/'>The Yamanote</a>
      </li>
 
     <li  >
             <span class='date'>01 Oct 2011</span>
-            <a href='/2011-10-01.html'>Food, glorious food.</a>
+            <a href='/blog/2011/10/01/food-glorious-food/'>Food, glorious food.</a>
      </li>
 
     <li  >
             <span class='date'>25 Sep 2011</span>
-            <a href='/2011-09-25.html'>Tokyo.</a>
+            <a href='/blog/2011/09/25/tokyo/'>Tokyo.</a>
      </li>
 
     <li  >
             <span class='date'>22 Sep 2011</span>
-            <a href='/2011-09-22.html'>An Interesting 3 Days</a>
+            <a href='/blog/2011/09/22/an-interesting-3-days/'>An Interesting 3 Days</a>
      </li>
 
 </ul>
-<address id='about'>
+<address>
 <div>Nishant Rodrigues</div>
 <a rel='me' href='mailto:nishantjr@gmail.com'><i class="fa fa-envelope"></i></a>
 <a rel='me' href='http://github.com/nishantjr'><i class="fa fa-github"></i></a>
@@ -229,7 +215,7 @@ tell the Tazuka Police that my bicycle was found.</p>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'nishantjr1';
-    var disqus_identifier = '/2011-12-10.html';
+    var disqus_identifier = '/blog/2011/12/10/yamanote-madness/';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
@@ -241,6 +227,8 @@ tell the Tazuka Police that my bicycle was found.</p>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 </div>
 
+
+</div>
+
 </body>
 </html>
-
