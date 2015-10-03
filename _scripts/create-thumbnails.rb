@@ -7,14 +7,14 @@ include Magick
 ARGV.empty? && raise('Usage: PROG <dir>')
 dir = File.expand_path(ARGV.shift)
 
-height = 600
-width = 533
-preview_dir = File.join(dir, "#{height}x#{width}")
+width = 600
+height = 470
+preview_dir = File.join(dir, "#{width}x#{height}")
 
 FileUtils::mkdir_p(preview_dir)
 files = Dir.glob("#{dir}/*.jpg").each { |file|
     img = ImageList.new(file)
-    img.resize_to_fill!(height, width)
+    img.resize_to_fill!(width, height)
     basename = File.basename(file)
     img.write(File.join(preview_dir, basename))
 }
