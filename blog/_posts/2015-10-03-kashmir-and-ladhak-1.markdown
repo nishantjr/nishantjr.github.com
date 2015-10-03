@@ -69,7 +69,7 @@ On the way from Ladhak to Srinagar (by taxi) on our [previous cycle trip to
 Ladhak]({% post_url 2013-09-13-jullay %}), Saahil casually suggested doing a
 cycle ride from Srinagar to Leh. Two years later, we finally got down to it -
 and it turned into quite an adventure. The story continues in [part
-2]({% post_url 2015-10-03-kashmir-and-ladhak-2 %}).
+2]({% post_url 2015-10-04-kashmir-and-ladhak-2 %}).
 {: .post-narrative}
 
 Checked in to 'Lonely Guest House' in Srinagar, and made friends with Aijas, the
@@ -143,7 +143,7 @@ from Srinagar and have been setting up this tea stall at the top of the pass for
 the last 4-5 years. They stay at the zero-point taking turns to return for
 supplies every 2 weeks.
 
-Read the rest of the story - getting from Zoji La to Leh - in [part 2]({% post_url 2015-10-03-kashmir-and-ladhak-2 %}).
+Read the rest of the story - getting from Zoji La to Leh - in [part 2]({% post_url 2015-10-04-kashmir-and-ladhak-2 %}).
 {: .post-narrative}
 
 [^1]: [Kawah](https://en.wikipedia.org/wiki/Kahwah): Kashmiri green tea with honey and saffron.
