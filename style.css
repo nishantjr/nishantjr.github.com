@@ -78,9 +78,7 @@ h2 {
     font-size: 80%;
 }
 
-#side-bar {
-    margin-top: 45px;
-}
+#side-bar { margin-top: 85px; }
 
 #side-bar a:link {
     color: #c44;
@@ -106,9 +104,18 @@ a:link { text-decoration: none; }
 }
 
 #side-bar address {
-    display: block;
     margin-top: 5px; margin-bottom: 5px;
     padding-top: 5px; padding-bottom: 5px;
-    border-top: 1px dashed #aaa;
+}
+#side-bar > * {
+    display: block;
+}
+
+#side-bar > :not(:last-child) {
     border-bottom: 1px dashed #aaa;
+}
+
+#side-bar .home {
+    font-weight: bold;
+    text-transform: uppercase;
 }

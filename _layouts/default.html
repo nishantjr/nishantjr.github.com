@@ -17,9 +17,9 @@
     </style>
 </head>
 <body>
-
 <div id='side-bar'>
-<ul>
+<a class='home' href='/'>About</a>
+<ul class='nav'>
 {% for post in site.posts %}
     <li {% if post.url == page.url %} class='currentpage' {% endif %} >
             <span class='date'>{{post.date | date_to_string}}</span>
@@ -27,7 +27,7 @@
      </li>
 {% endfor %}
 </ul>
-<address id='about'>
+<address>
 <div>Nishant Rodrigues</div>
 <a rel='me' href='mailto:nishantjr@gmail.com'>{% icon fa-envelope %}</a>
 <a rel='me' href='http://github.com/nishantjr'>{% icon fa-github %}</a>
@@ -48,6 +48,7 @@
     <span id='tag-line'>{{page.tag-line}}</span>
 </header>
 {{content}}
-{% include comments.html %}
+</div>
+
 </body>
 </html>
