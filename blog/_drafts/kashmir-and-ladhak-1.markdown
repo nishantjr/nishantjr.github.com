@@ -9,7 +9,7 @@ gallery:
   srinagar:
   - src: "dal-lake.jpg"
     title: "Dal Lake"
-    details: "Saahil: 'How dissapointing. It's just water, not of dal.'"
+    details: "Saahil: 'How disappointing. It's just water, not dal.'"
   - src: "bye-bye.jpg"
     title: "Goodbye Srinagar"
     details: " and our second breakfast"
