@@ -3,28 +3,9 @@
 <head>
     <title>{{page.title}}</title>
     <meta charset="utf-8" />
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-    <script src="js/responsiveslides.js"></script>
-    <script>
-      $(function() {
-          $(".gallery").responsiveSlides({
-              auto: false,
-              pager: true,
-              nav: true,
-              namespace: "gallery",
-              prevText: "&#xab;",
-              nextText: "&#xbb;",
-              before: function() {
-                /* Allow the images to be loaded only when needed. */
-                var image = $(this).find("img");
-                var source = image.data('source');
-                if (source) image.attr("src", source);
-              }
-              });
-      });
-    </script>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="/js/gallery.js"></script>
     <link rel='stylesheet' href='/style.css' />
     <link rel='stylesheet' href='/css/gallery.css' />
     <link rel='stylesheet' href='/css/mobile.css' />

@@ -1,23 +1,30 @@
+.gallery-container {
+    background-color: #222;
+}
+
 .gallery {
     max-width: 100%;
 }
 
 .gallery-header {
     color: white;
-    background-color: #222;
     padding: 5px;
 }
 
 .gallery-container {
   margin-bottom: 20px;
   position: relative;
+  color 
 }
 
 .gallery-item {
-    display: table;
     border-bottom: none;
     margin-left: auto;
     margin-right: auto;
+    display: none;
+}
+.gallery-item-current {
+    display: table;
 }
 .gallery-item figcaption {
     display: table-caption;
@@ -27,25 +34,25 @@
     color: #eee;
     padding: 4px;
 }
-.gallery_tabs {
-    background-color: #222;
+
+.gallery-nav {
     margin-left: 0px !important;
     text-align: center;
 }
-.gallery_tabs li {
+.gallery-nav li {
     width: auto;
     padding: 5px;
     height: auto;
     display: inline-block;
 }
-.gallery_tabs li a {
+.gallery-nav li a {
     color: #eee;
 }
-.gallery_tabs li:hover a {
+.gallery-nav li:hover a {
     text-shadow: 0px 0px 6px #000;
 }
 
-.gallery_here {
+.gallery-nav-current {
     background-color: #555;
 }
 
@@ -53,6 +60,7 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+    height: auto;
 }
 
 #content .gallery-item img {
