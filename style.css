@@ -79,6 +79,12 @@ h2 {
     font-size: 80%;
 }
 
+.footnotes {
+    color: #222;
+    font-family: sans-serif;
+    font-size: 80%;
+}
+
 #side-bar {
     margin-top: 45px;
 }

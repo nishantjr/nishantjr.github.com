@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "K&L: Zoji La to Leh"
+title: "K&L 2: Zoji La to Leh"
 cover: ladhak
 
 gallery_prefix:
@@ -106,12 +106,12 @@ and it turned into quite an adventure. This is a continuation of [part
 1]({% post_url 2015-10-03-kashmir-and-ladhak-1 %}).
 {: .post-narrative}
 
-
 We left the warm comfort of the tents at 10 the next morning, wearing slippers
 since our shoes had frozen solid! The roads were downhill, but quite damaged by
-the winter ice. We patched 5-6 punctures that day, reaching Dras around 5pm.  In
+the winter ice. We patched 5-6 punctures that day, reaching Dras around 5pm
+completing just the distance we had intended to complete the previous day. In
 Dras, we had our first taste of Wazwan with the Rogan Josh from the place across
-the hotel. We ate, showered and fell asleep by 9:30.
+the hotel. We ate, showered and fell asleep, exhausted, by 9:30.
 
 {% include gallery.html gallery='zojila' title='Day 3: Zojila to Dras' %}
 
@@ -141,7 +141,7 @@ sweet downhill, stopping for chai and directions at Khangral. After unfreezing
 our fingers we head down 5km ahead to a guest house at Bod-Kharbu. Find the
 Guest house but turns out that there's no one there. Eat maggi and omelette for
 dinner again, and are taken to a homestay. And of course, we clean our bikes
-have baths and a shave ummm...
+have baths and a shave ummm... /s
 
 {% include gallery.html gallery='kargil' title='Day 5: Kargil to Kharbu' %}
 {% include gallery.html gallery='namik-la' title='Day 5: Snow at Namik-La' %}
@@ -159,7 +159,7 @@ managed to find a very comfortable homestay.
 {% include gallery.html gallery='kharbu' title='Day 6: Zojila to Dras' %}
 
 From Nurla to Leh was quite uneventful, eating at Basgo, ignoring magnetic hill,
-tea at Pathar Sahib Gurudvara. The road of evil, christened 2 years ago was an
+tea at [Pathar Sahib Gurudvara]. The road of evil, christened 2 years ago was an
 extremely long uphill with a bad headwind and dwindling supply of water. It was
 now sweet sweet downhill, possibly the fastest road on the whole trip, until the
 hall of fame museum. We stopped for a second tea here, and finally made it to
@@ -175,3 +175,5 @@ let us through. We took some vegetables for Sarjar, and reached Srinagar around
 
 Spent the next day around Srinagar sampling the Wazwan and shopping, and headed
 home on the big jet plane.
+
+[Pathar Sahib Gurudvara]: http://www.sikhiwiki.org/index.php/Gurdwara_Pathar_Sahib
