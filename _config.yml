@@ -3,5 +3,5 @@
 # /posts/date/title{no-html} as the URL.
 
 url: "nishantjr.github.com"
-permalink: /:year-:month-:day.html
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
