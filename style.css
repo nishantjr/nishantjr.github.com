@@ -73,6 +73,12 @@ h2 {
     padding: 1em;
     padding-top: 0px;
 }
+
+.post-narrative {
+    font-style: oblique;
+    font-size: 80%;
+}
+
 #side-bar {
     margin-top: 45px;
 }
