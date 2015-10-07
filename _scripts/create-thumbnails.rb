@@ -14,7 +14,7 @@ preview_dir = File.join(dir, "#{width}x#{height}")
 FileUtils::mkdir_p(preview_dir)
 files = Dir.glob("#{dir}/*.jpg").each { |file|
     img = ImageList.new(file)
-    img.resize_to_fill!(width, height)
+    img.resize_to_fit!(width, height)
     basename = File.basename(file)
     img.write(File.join(preview_dir, basename))
 }
