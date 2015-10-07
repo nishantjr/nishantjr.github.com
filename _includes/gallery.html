@@ -25,6 +25,7 @@
 </figure>
 {% endfor %}
 
+{% if images[1].size > 1 %}
 <ol class='gallery-nav'>
 {% for image in images[1] %}
 <li class='{% if forloop.first %}gallery-nav-current{%endif%}' >
@@ -32,6 +33,7 @@
     {{forloop.index}}</a></li>
 {% endfor %}
 </ol>
+{%endif%}
 
 {% endif  %}
 {% endfor %}

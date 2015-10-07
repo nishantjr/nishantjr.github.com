@@ -83,9 +83,9 @@ this trip were trying to kill you;"  "Sure, go ahead, just take a truck from
 Sonamarg to Zoji La."
 
 Left the guest house that morning at eight, bought water and pedals. Finally
-oriented ourselves and were heading out of Srinagar by ten. Rode halfway around
-the Dal Lake to reach the highway. We celebrated the first 23 km with a second
-breakfast and the mixing of the electrolytes.
+oriented ourselves and were heading out of Srinagar {% height 1600 %} by ten.
+Rode halfway around the Dal Lake to reach the highway. We celebrated the first
+23 km with a second breakfast and the mixing of the electrolytes.
 
 Saahil's rear rack gave a bit of trouble (this was the first time we were
 testing fully loaded) and we had to flip around the bolt so it wouldn't get into
@@ -107,19 +107,20 @@ Sleeping soundly with the sweet knowledge that there's just 20 km of climbing an
 {% include gallery.html gallery='srinagar' title='Day 1: Srinagar to Sonamarg' %}
 
 We leave around 10:30 the next day after a staple oily omelette breakfast and
-head out towards Zojila. Cycling the gradual ascent to Sonamarg, we reach there
-in time for an early lunch not sure when the next stop will be. As we go ahead,
-the ascent becomes steeper, the two-lane highway turns into one-lane, and as
-trucks stop to give their engines a break, not even that. The road is
-completely destroyed by the glaciers that covered the road in winter. Walls of
-ice on either side, some 2-3 stories high. There's not a chai wala in sight.
-Looking at the road ahead - you can see it winding it's way clinging to the side
-of the mountains far far ahead - we wonder where the pass is. Finally we're told
-we're nearing the top, the road is a narrow gully between the ice - more of a
-stream than a road really. We reach smooth paver block-ed section and a god sent
-chai-shop. The chai shop is a tent sitting on top of 2 feet of ice. We're told
-we're at zero-point---we've made it. The 20 km had turned into 40 km; it took us
-7 hours to do what we thought we'd take 3-4 hours to do.
+head out towards Zojila. Cycling the gradual ascent to Sonamarg {% height 2800 %},
+we reach there in time for an early lunch not sure when the next stop will
+be. As we go ahead, the ascent becomes steeper, the two-lane highway turns into
+one-lane, and as trucks stop to give their engines a break, not even that. The
+road is completely destroyed by the glaciers that covered the road in winter.
+Walls of ice on either side, some 2-3 stories high. There's not a chai wala in
+sight.  Looking at the road ahead - you can see it winding it's way clinging to
+the side of the mountains far far ahead - we wonder where the pass is. Finally
+we're told we're nearing the top, the road is a narrow gully between the ice -
+more of a stream than a road really. We reach smooth paver block-ed section and
+a god sent chai-shop. The chai shop is a tent sitting on top of 2 feet of ice.
+We're told we're at zero-point {% height 3528 %}. We've made it. The 20 km had
+turned into 40 km; it took us 7 hours to do what we thought we'd take 3-4 hours
+to do.
 
 It was 6 in the evening and the Kashmir chai walas told us we wouldn't make it
 to Drass, 40 km ahead. This time we believed them. They said we could either put
