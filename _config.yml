@@ -1,6 +1,9 @@
 url: "nishantjr.github.com"
 permalink: /:categories/:year/:month/:day/:title/
 markdown: kramdown
+source: 'src/'
+destination: '.build/www'
+plugins: 'plugins'
 
 defaults:
   - scope:
