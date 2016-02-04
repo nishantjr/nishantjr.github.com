@@ -33,7 +33,7 @@
     }
     #side-bar .currentpage .date { color: white; }
 
-    #content { max-width: 100%; }
+    body { max-width: 600px; }
     img { max-width: 100%; }
 
     .gallery {
