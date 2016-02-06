@@ -6,6 +6,7 @@
     #side-bar {
         background: white;
         position: fixed;
+        margin: auto;
         text-align: left;
         left: 10px;
         top: 10px;
@@ -16,10 +17,11 @@
     }
     #side-bar:before {
         display: block;
-        content: " ";
-        background: #fff url(/images/site/menu.png) no-repeat 6px 6px;
-        width: 25px;
-        height: 25px;
+        content: "\f0c9";
+        font-family: FontAwesome;
+        font-size: 1.2em;
+        width: 16px;
+        padding: 4px;
     }
     #side-bar:hover li {
         padding-left: 5px;
@@ -33,7 +35,7 @@
     }
     #side-bar .currentpage .date { color: white; }
 
-    #content { max-width: 100%; }
+    body { max-width: 600px; }
     img { max-width: 100%; }
 
     .gallery {
