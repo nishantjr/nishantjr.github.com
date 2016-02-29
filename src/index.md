@@ -5,13 +5,14 @@ cover: fuji
 ---
 
 I'm making this blog to document my escapades, teach myself writing, practice
-building web-sites, show off my doodles, try my hand at design and more
-importantly - to have fun.
+building websites, show off my doodles, try my hand at design and &ndash; most
+importantly &ndash; to have fun.
 
-I try to do as much is reasonable by hand - HTML, CSS, the drawings and images
-to let me appreciate the effort that goes into doing these things. I had started
-off trying to write my own static site generator, and got it working too, but
-[jekyll] is so much nicer, so I'm going with that now.
+I try to do as much is reasonable by hand, from the writing and illustration to
+the design, HTML and CSS. This lets me appreciate the effort that goes in to the
+pre-made packages that most people use for many of these things. I had even
+written my own static site generator and run this site on it, but [Jekyll]
+turned out to be much nicer, so I converted to that (for the moment).
 
 I've been writing about the various (mis-)adventures I've been having - [nearly
 getting arrested for stealing my own bicycle]({% post_url 2011-12-10-yamanote-madness %}),
@@ -20,4 +21,4 @@ getting arrested for stealing my own bicycle]({% post_url 2011-12-10-yamanote-ma
 
 So share and enjoy!
 
-[jekyll]: http://jekyllrb.com/
+[Jekyll]: http://jekyllrb.com/
