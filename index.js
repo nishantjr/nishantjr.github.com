@@ -1,7 +1,8 @@
 'use strict'
 
 const Metalsmith = require('metalsmith'),
-      markdown   = require('metalsmith-markdownit')
+      markdown   = require('metalsmith-markdownit'),
+      permalinks = require('metalsmith-permalinks')
 
 const inPath = (path, plugin) =>
   (files, metalsmith, done) => {
@@ -40,6 +41,10 @@ Metalsmith(__dirname)
   .destination('.build/www')
   .use(markdown())
   .use(inPath('blog/', extractDateSlugFromFilename))
+  .use(inPath('blog/', permalinks({
+    pattern: 'blog/:date/:slug',
+    date: 'YYYY/MM/DD/'
+  })))
   .build(function(err) {
     if (err) throw err;
       console.log('Done.');
