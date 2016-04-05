@@ -3,6 +3,19 @@
 const Metalsmith = require('metalsmith'),
       markdown   = require('metalsmith-markdownit')
 
+const inPath = (path, plugin) =>
+  (files, metalsmith, done) => {
+    const filteredFiles = {}
+    for (const file in files)
+      if (file.startsWith(path)) {
+        filteredFiles[file] = files[file]
+        delete files[file]
+      }
+
+    const next = () => { Object.assign(files, filteredFiles); done() }
+    plugin(filteredFiles, metalsmith, next)
+  }
+
 const printFilename =
   (files, metalsmith, done) => {
     for (const file in files)
