@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/nishantjr/nishantjr.github.com/issues"
   },
-  "homepage": "https://github.com/nishantjr/nishantjr.github.com#readme"
+  "homepage": "https://github.com/nishantjr/nishantjr.github.com#readme",
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "metalsmith-markdownit": "^0.3.0"
+  }
 }
