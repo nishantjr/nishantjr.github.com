@@ -1,6 +1,7 @@
 'use strict'
 
 const Metalsmith = require('metalsmith'),
+      linkcheck  = require('metalsmith-linkcheck'),
       markdown   = require('metalsmith-markdownit'),
       permalinks = require('metalsmith-permalinks')
 
@@ -45,6 +46,10 @@ Metalsmith(__dirname)
     pattern: 'blog/:date/:slug',
     date: 'YYYY/MM/DD/'
   })))
+  .use(linkcheck({
+    checkFile: '../.build/links-checked.json',
+    failFile: '../.build/links-failed.json',
+  }))
   .build(function(err) {
     if (err) throw err;
       console.log('Done.');
