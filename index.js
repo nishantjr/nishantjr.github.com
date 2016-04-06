@@ -44,7 +44,7 @@ const printFilename =
 
 Metalsmith(__dirname)
   .destination('.build/www')
-  .use(markdown())
+  .use(markdown({html: true, typographer: true}))
   .use(inPath('blog/', setBlogPostMetadata))
   .use(inPath('blog/', permalinks({
     pattern: 'blog/:date/:slug',
