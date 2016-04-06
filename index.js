@@ -23,8 +23,9 @@ const extractDateSlugFromFilename =
     for (const file in files) {
       const match = file.match(/(\d{4}-\d{2}-\d{2})-(.*)\.html/)
       if (match) {
-        files[file].date = new Date(match[1])
-        files[file].slug = match[2]
+        const fileData = files[file]
+        fileData.date = new Date(match[1])
+        fileData.slug = match[2]
       }
       else console.warn(file + " doesn't include date or slug.")
     }
