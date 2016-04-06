@@ -44,7 +44,7 @@ Metalsmith(__dirname)
   .use(inPath('blog/', extractDateSlugFromFilename))
   .use(inPath('blog/', permalinks({
     pattern: 'blog/:date/:slug',
-    date: 'YYYY/MM/DD/'
+    date: 'YYYY/MM/DD'
   })))
   .use(linkcheck({
     checkFile: '../.build/links-checked.json',
