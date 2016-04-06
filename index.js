@@ -1,6 +1,7 @@
 'use strict'
 
 const Metalsmith = require('metalsmith'),
+      inPlace    = require('metalsmith-in-place'),
       layouts    = require('metalsmith-layouts'),
       linkcheck  = require('metalsmith-linkcheck'),
       markdown   = require('metalsmith-markdownit'),
@@ -44,6 +45,14 @@ const printFilename =
 
 Metalsmith(__dirname)
   .destination('.build/www')
+  .use(inPlace({
+    engine: 'liquid',
+    includeDir: 'partials',
+    customTags: { height: (meters) => {
+      const feet = Math.round(3.281 * meters.trim())
+      return ' <span class="altitude">(' + meters + " m / " + feet + " ft)</span> "
+    }}
+  }))
   .use(markdown({html: true, typographer: true}))
   .use(inPath('blog/', setBlogPostMetadata))
   .use(inPath('blog/', permalinks({
