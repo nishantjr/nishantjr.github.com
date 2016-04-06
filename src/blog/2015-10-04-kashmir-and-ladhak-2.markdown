@@ -103,10 +103,10 @@ gallery:
 ---
 
 On the way from Ladhak to Srinagar (by taxi) on our [previous cycle trip to
-Ladhak]({% post_url 2013-09-13-jullay %}), Saahil casually suggested doing a
+Ladhak](/blog/2013/09/13/jullay/), Saahil casually suggested doing a
 cycle ride from Srinagar to Leh. Two years later, we finally got down to it -
 and it turned into quite an adventure. This is a continuation of [part
-1]({% post_url 2015-10-03-kashmir-and-ladhak-1 %}).
+1](/blog/2015/10/03/kashmir-and-ladhak-1/).
 {: .post-narrative}
 
 We left the warm comfort of the tents at 10 the next morning, wearing slippers
