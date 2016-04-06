@@ -2,4 +2,5 @@
 * Make a preview-server and automatically rebuild when a file changes.
 * metalsmith-linkcheck: Add the ability to check images, css, JS, fonts etc.
 * metalsmith-linkcheck: Figure out why caching seems to be broken.
-
+* metalsmith-branch: Think about using this to replace inPath.
+  It looks about the same as what I'm doing though.
