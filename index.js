@@ -1,6 +1,7 @@
 'use strict'
 
 const Metalsmith = require('metalsmith'),
+      layouts    = require('metalsmith-layouts'),
       linkcheck  = require('metalsmith-linkcheck'),
       markdown   = require('metalsmith-markdownit'),
       permalinks = require('metalsmith-permalinks')
@@ -26,7 +27,8 @@ const setBlogPostMetadata =
         const fileData = files[file]
         fileData.date = new Date(match[1])
         fileData.slug = match[2]
-        fileData.layout = 'post.html'
+        fileData.layout = 'default.html'
+        fileData.comments = true
       }
       else console.warn(file + " doesn't include date or slug.")
     }
@@ -48,6 +50,11 @@ Metalsmith(__dirname)
     pattern: 'blog/:date/:slug',
     date: 'YYYY/MM/DD'
   })))
+  .use(layouts({
+    engine: 'liquid',
+    directory: 'templates',
+    includeDir: 'partials',
+  }))
   .use(linkcheck({
     checkFile: '../.build/links-checked.json',
     failFile: '../.build/links-failed.json',
