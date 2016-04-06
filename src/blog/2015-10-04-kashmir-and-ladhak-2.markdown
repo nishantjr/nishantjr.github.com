@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.html
 title: "K&L 2: Zoji La to Leh"
 cover: ladhak
 

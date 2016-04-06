@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.html
 title: Food, glorious food.
 cover: fuji
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.html
 title: The Yamanote
 tag-line: ...learning Japanese at Kobans...
 cover: fuji

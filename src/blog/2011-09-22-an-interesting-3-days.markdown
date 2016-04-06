@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post.html
 title: An Interesting 3 Days
 cover: fuji
 ---
