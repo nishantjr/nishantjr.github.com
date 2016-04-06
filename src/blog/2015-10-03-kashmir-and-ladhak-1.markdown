@@ -1,5 +1,4 @@
 ---
-layout: post.html
 title: "K&L 1: Srinagar to Zoji La"
 cover: ladhak
 

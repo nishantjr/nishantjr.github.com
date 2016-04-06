@@ -1,5 +1,4 @@
 ---
-layout: post.html
 title: "Fuji-San"
 cover: fuji
 ---

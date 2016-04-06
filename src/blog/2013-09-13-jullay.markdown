@@ -1,5 +1,4 @@
 ---
-layout: post.html
 title: Jullay!
 cover: fuji
 tag-line: Leh, Ladhak - by cycle.

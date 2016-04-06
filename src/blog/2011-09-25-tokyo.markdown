@@ -1,5 +1,4 @@
 ---
-layout: post.html
 title: Tokyo.
 cover: fuji
 ---

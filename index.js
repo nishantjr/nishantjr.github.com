@@ -18,7 +18,7 @@ const inPath = (path, plugin) =>
     plugin(filteredFiles, metalsmith, next)
   }
 
-const extractDateSlugFromFilename =
+const setBlogPostMetadata =
   (files, metalsmith, done) => {
     for (const file in files) {
       const match = file.match(/(\d{4}-\d{2}-\d{2})-(.*)\.html/)
@@ -26,6 +26,7 @@ const extractDateSlugFromFilename =
         const fileData = files[file]
         fileData.date = new Date(match[1])
         fileData.slug = match[2]
+        fileData.layout = 'post.html'
       }
       else console.warn(file + " doesn't include date or slug.")
     }
@@ -42,7 +43,7 @@ const printFilename =
 Metalsmith(__dirname)
   .destination('.build/www')
   .use(markdown())
-  .use(inPath('blog/', extractDateSlugFromFilename))
+  .use(inPath('blog/', setBlogPostMetadata))
   .use(inPath('blog/', permalinks({
     pattern: 'blog/:date/:slug',
     date: 'YYYY/MM/DD'
