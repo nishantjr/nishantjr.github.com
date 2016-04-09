@@ -1,11 +1,11 @@
 'use strict'
 
-const Metalsmith = require('metalsmith'),
-      inPlace    = require('metalsmith-in-place'),
-      layouts    = require('metalsmith-layouts'),
-      linkcheck  = require('metalsmith-linkcheck'),
-      markdown   = require('metalsmith-markdownit'),
-      permalinks = require('metalsmith-permalinks')
+const Metalsmith = require('metalsmith')
+    , inPlace    = require('metalsmith-in-place')
+    , layouts    = require('metalsmith-layouts')
+    , linkcheck  = require('metalsmith-linkcheck')
+    , markdown   = require('metalsmith-markdownit')
+    , permalinks = require('metalsmith-permalinks')
 
 const inPath = (path, plugin) =>
   (files, metalsmith, done) => {
