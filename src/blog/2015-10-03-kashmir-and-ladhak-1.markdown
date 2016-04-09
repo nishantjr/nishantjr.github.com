@@ -4,7 +4,7 @@ cover: ladhak
 
 gallery_prefix:
     "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"
-gallery:
+galleries:
   srinagar:
   - src: "dal-lake.jpg"
     title: "Dal Lake"
@@ -103,7 +103,7 @@ next hotel we find and settle in for dinner at a place 15 km before Sonamarg.
 Sleeping soundly with the sweet knowledge that there's just 20 km of climbing and
 40 km of downhill scheduled for the next day.
 
-{% include gallery.html gallery='srinagar' title='Day 1: Srinagar to Sonamarg' %}
+{% include gallery.html name='srinagar' gallery=galleries.srinagar title='Day 1: Srinagar to Sonamarg' %}
 
 We leave around 10:30 the next day after a staple oily omelette breakfast and
 head out towards Zojila. Cycling the gradual ascent to Sonamarg {% height 2800 %},
@@ -134,7 +134,7 @@ stories. We slept under five layers of blankets with a Kangri to warm us up and
 woke up warm and refreshed.  Sarjar and Co. took us for a bit of sled-riding in
 the morning too.
 
-{% include gallery.html gallery='sonamarg' title='Day 2: Sonamarg to Zojila' %}
+{% include gallery.html name='sonamarg' gallery=galleries.sonamarg title='Day 2: Sonamarg to Zojila' %}
 
 We were extremely lucky---Sarjar had just come the previous day to set up shop.
 It had snowed quite heavily too---a couple of feet of snow---but was bright and

@@ -1,20 +1,18 @@
 {% assign image_width='600' %}
 {% assign image_height='470' %}
 <div class='gallery-container'>
-<div class='gallery-header'>{{include.title}}</div>
-<div id='gallery-{{include.gallery | escape}}' class='gallery'>
-{% for images in page.gallery %}
-{% if images[0] == include.gallery %}
+<div class='gallery-header'>{{title}}</div>
+<div id='gallery-{{name | escape}}' class='gallery'>
 
-{% for image in images[1] %}
+{% for image in gallery %}
 <figure class='gallery-item {% if forloop.first %}gallery-item-current{%endif%}'>
 <figcaption><strong>{{image.title}}</strong> {{image.details}}</figcaption>
-<a href='{{page.gallery_prefix}}/{{images[0]}}/{{image.src}}'>
+<a href='{{gallery_prefix}}/{{name}}/{{image.src}}'>
 <img title='{{image.title | escape}}'
      alt='{{image.title | escape}}'
      height='{{image_height}}'
      width='{{image_width}}'
-{% capture url %}{{page.gallery_prefix}}/{{images[0]}}/{{image_width}}x{{image_height}}/{{image.src}}{% endcapture %}
+{% capture url %}{{gallery_prefix}}/{{name}}/{{image_width}}x{{image_height}}/{{image.src}}{% endcapture %}
 {% if forloop.first == true %}
      src='{{url}}'
 {% else %}
@@ -25,17 +23,15 @@
 </figure>
 {% endfor %}
 
-{% if images[1].size > 1 %}
+{% if gallery.size > 1 %}
 <ol class='gallery-nav'>
-{% for image in images[1] %}
+{% for image in gallery %}
 <li class='{% if forloop.first %}gallery-nav-current{%endif%}' >
-    <a href='javascript:on_gallery_nav("gallery-{{include.gallery}}", {{forloop.index}})'>
+    <a href='javascript:on_gallery_nav("gallery-{{gallery}}", {{forloop.index}})'>
     {{forloop.index}}</a></li>
 {% endfor %}
 </ol>
 {%endif%}
 
-{% endif  %}
-{% endfor %}
 </div>
 </div>

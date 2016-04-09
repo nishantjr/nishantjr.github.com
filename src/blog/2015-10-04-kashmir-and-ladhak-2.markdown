@@ -4,7 +4,7 @@ cover: ladhak
 
 gallery_prefix:
     "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"
-gallery:
+galleries:
   zojila:
   - src: "slippers-ofcourse.jpg"
     title: "Real men wear slippers"
@@ -116,7 +116,7 @@ around 5pm completing just the distance we had intended to complete the previous
 day. In Dras, we had our first taste of Wazwan with the Rogan Josh from the
 place across the hotel. We ate, showered and fell asleep, exhausted, by 9:30.
 
-{% include gallery.html gallery='zojila' title='Day 3: Zojila to Dras' %}
+{% include gallery.html name='zojila' gallery=galleries.zojila title='Day 3: Zojila to Dras' %}
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
 Amit and Binoy, who had started the day after we left Srinagar. They'd made it
@@ -147,8 +147,8 @@ guest house at Bod-Kharbu. Find the Guest house but turns out that there's no
 one there. Eat maggi and omelette for dinner again, and are taken to a homestay.
 And of course, we clean our bikes have baths and a shave ummm... /s
 
-{% include gallery.html gallery='kargil' title='Day 5: Kargil to Kharbu' %}
-{% include gallery.html gallery='namik-la' title='Day 5: Snow at Namik-La' %}
+{% include gallery.html name='kargil' gallery=galleries.kargil title='Day 5: Kargil to Kharbu' %}
+{% include gallery.html name='namik-la' gallery=galleries.namik-la title='Day 5: Snow at Namik-La' %}
 
 Left Kharbu by 9 and had eaten two breakfasts by 10: coffee and omelettes at the
 Marathi Army Cafe - they serve wada pav, but we went too early; and fresh
@@ -160,7 +160,7 @@ pushed on to Nurla {% height 3041 %}. At Nurla, the (extremely pretty) resort
 we'd stayed at the last time was booked full, and the only other place in town
 was Rs 6000 a night, but we managed to find a very comfortable homestay.
 
-{% include gallery.html gallery='kharbu' title='Day 6: Zojila to Dras' %}
+{% include gallery.html name='kharbu' gallery=galleries.kharbu title='Day 6: Zojila to Dras' %}
 
 From Nurla to Leh {% height 3524 %} was quite uneventful, eating at Basgo,
 ignoring magnetic hill, tea at [Pathar Sahib Gurudvara]. The road of evil,
@@ -181,6 +181,6 @@ let us through. We took some vegetables for Sarjar, and reached Srinagar around
 Spent the next day around Srinagar sampling the Wazwan and shopping, and headed
 home on the big jet plane.
 
-{% include gallery.html gallery='etc' title='Altitude Profile' %}
+{% include gallery.html name='etc' gallery=galleries.etc title='Altitude Profile' %}
 
 [Pathar Sahib Gurudvara]: http://www.sikhiwiki.org/index.php/Gurdwara_Pathar_Sahib
