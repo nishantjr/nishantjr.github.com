@@ -55,6 +55,9 @@ const printFilename =
     done()
   }
 
+const markdownRenderer = markdown({html: true, typographer: true})
+markdownRenderer.use(require('markdown-it-footnote'))
+
 Metalsmith(__dirname)
   .destination('.build/www')
   .use(inPlace({
@@ -65,7 +68,7 @@ Metalsmith(__dirname)
       return ' <span class="altitude">(' + meters + " m / " + feet + " ft)</span> "
     }}
   }))
-  .use(markdown({html: true, typographer: true}))
+  .use(markdownRenderer)
   .use(inPath('blog/', setBlogPostMetadata))
   .use(inPath('blog/', permalinks({
     pattern: 'blog/:date/:slug',

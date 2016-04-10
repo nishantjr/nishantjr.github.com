@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nishantjr/nishantjr.github.com#readme",
   "dependencies": {
+    "markdown-it-footnote": "^2.0.0",
     "metalsmith": "^2.1.0",
     "metalsmith-in-place": "^1.4.3",
     "metalsmith-layouts": "^1.6.4",
