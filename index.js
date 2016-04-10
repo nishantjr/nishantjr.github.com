@@ -56,7 +56,9 @@ const printFilename =
   }
 
 const markdownRenderer = markdown({html: true, typographer: true})
-markdownRenderer.use(require('markdown-it-footnote'))
+markdownRenderer
+    .use(require('markdown-it-footnote'))
+    .use(require('markdown-it-container'), 'post-narrative')
 
 Metalsmith(__dirname)
   .destination('.build/www')
