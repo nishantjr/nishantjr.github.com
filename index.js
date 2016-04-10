@@ -36,6 +36,18 @@ const setBlogPostMetadata =
     done()
   }
 
+const createCollection = function(name) {
+  return (files, metalsmith, done) => {
+    const metadata = metalsmith.metadata()
+    metadata.collections = metadata.collections ? metadata.collections : {}
+    metadata.collections[name] = Object.keys(files).map((filename) => {
+      return files[filename]
+    })
+    metadata.collections[name].sort((a, b) => b.date - a.date)
+    done()
+  }
+}
+
 const printFilename =
   (files, metalsmith, done) => {
     for (const file in files)
@@ -59,6 +71,7 @@ Metalsmith(__dirname)
     pattern: 'blog/:date/:slug',
     date: 'YYYY/MM/DD'
   })))
+  .use(inPath('blog/', createCollection('blog')))
   .use(layouts({
     engine: 'liquid',
     directory: 'templates',

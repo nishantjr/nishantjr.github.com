@@ -28,10 +28,10 @@
 <div id='side-bar'>
 <a class='home' href='/'>About</a>
 <ul class='nav'>
-{% for post in site.posts %}
-    <li {% if post.url == page.url %} class='currentpage' {% endif %} >
-            <span class='date'>{{post.date | date_to_string}}</span>
-            <a href='{{post.url}}'>{{post.title}}</a>
+{% for post in collections.blog %}
+    <li {% if post.path == path %} class='currentpage' {% endif %} >
+        <span class='date'>{{post.date | date: '%d %b %Y' }}</span>
+        <a href='/{{post.path}}/'>{{post.title}}</a>
      </li>
 {% endfor %}
 </ul>
