@@ -22,6 +22,7 @@
     "gulp": "^3.9.1",
     "markdown-it-container": "^2.0.0",
     "markdown-it-footnote": "^2.0.0",
+    "markdown-it-implicit-figures": "^0.2.3",
     "metalsmith": "^2.1.0",
     "metalsmith-drafts": "0.0.1",
     "metalsmith-in-place": "^1.4.3",
