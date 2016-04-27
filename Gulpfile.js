@@ -15,4 +15,6 @@ gulp.task('serve', ['build'], (cb) => {
     connect.server({
         root: metalsmith._destination
     });
+    gulp.watch('src/**/*', ['build'])
 })
+
