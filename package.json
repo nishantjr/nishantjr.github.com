@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nishantjr/nishantjr.github.com#readme",
   "dependencies": {
+    "gulp": "^3.9.1",
     "markdown-it-container": "^2.0.0",
     "markdown-it-footnote": "^2.0.0",
     "metalsmith": "^2.1.0",
