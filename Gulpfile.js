@@ -1,7 +1,8 @@
 'use strict'
 
-const gulp = require('gulp')
-const metalsmith = require('./lib/site')
+const gulp = require('gulp'),
+      connect = require('gulp-connect'),
+      metalsmith = require('./lib/site')
 
 gulp.task('build', (cb) => {
     metalsmith.build(function(err) {
@@ -9,3 +10,9 @@ gulp.task('build', (cb) => {
       cb();
   })
 });
+
+gulp.task('serve', ['build'], (cb) => {
+    connect.server({
+        root: metalsmith._destination
+    });
+})
