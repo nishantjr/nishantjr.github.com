@@ -3,7 +3,6 @@
 const Metalsmith = require('metalsmith')
     , inPlace    = require('metalsmith-in-place')
     , layouts    = require('metalsmith-layouts')
-    , linkcheck  = require('metalsmith-linkcheck')
     , markdown   = require('metalsmith-markdownit')
     , permalinks = require('metalsmith-permalinks')
 
@@ -82,13 +81,6 @@ Metalsmith(__dirname)
     directory: 'templates',
     includeDir: 'partials',
   }))
-/* We've disabled linkcheck for now, since it fails for javascript urls, and
- * since caching is broken, causing the build to take more than a minute.
-  .use(linkcheck({
-    checkFile: '../.build/links-checked.json',
-    failFile: '../.build/links-failed.json',
-  }))
- */
   .build(function(err) {
     if (err) throw err;
       console.log('Done.');
