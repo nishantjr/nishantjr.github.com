@@ -4,6 +4,7 @@
   "description": "A blog to document my escapades and learn how to build websites.",
   "main": "index.js",
   "scripts": {
+    "start": "gulp serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
