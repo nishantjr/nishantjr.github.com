@@ -16,5 +16,6 @@ gulp.task('serve', ['build'], (cb) => {
         root: metalsmith._destination
     });
     gulp.watch('src/**/*', ['build'])
+    gulp.watch('templates/**/*', ['build'])
 })
 
