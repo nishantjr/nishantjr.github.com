@@ -17,6 +17,8 @@ body {
     padding-top: 300px;
     margin: auto;
     max-width: 1000px;
+    background-repeat: no-repeat;
+    background-position: center -100px;
 }
 
 #content {
