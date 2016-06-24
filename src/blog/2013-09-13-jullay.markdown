@@ -1,6 +1,6 @@
 ---
 title: Jullay!
-cover: fuji
+cover: fuji.jpg
 tag-line: Leh, Ladhak - by cycle.
 ---
 

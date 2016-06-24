@@ -1,6 +1,6 @@
 ---
 title: "K&L 2: Zoji La to Leh"
-cover: ladhak
+cover: ladhak.jpg
 
 gallery_prefix:
     "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"

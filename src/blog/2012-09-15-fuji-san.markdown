@@ -1,6 +1,6 @@
 ---
 title: "Fuji-San"
-cover: fuji
+cover: fuji.jpg
 ---
 
 Last weekend we made our trip to Fuji-san. Expecting an easy trip to the top

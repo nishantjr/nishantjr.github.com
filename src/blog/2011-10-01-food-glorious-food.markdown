@@ -1,6 +1,6 @@
 ---
 title: Food, glorious food.
-cover: fuji
+cover: fuji.jpg
 ---
 
 Went with Tomo and his friend Yoshisa to a place called 'Na Be Zo' for the first real

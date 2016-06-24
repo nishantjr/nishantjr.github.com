@@ -1,6 +1,6 @@
 ---
 title: An Interesting 3 Days
-cover: fuji
+cover: fuji.jpg
 ---
 
 So. 

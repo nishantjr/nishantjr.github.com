@@ -1,6 +1,6 @@
 ---
 title: "K&L 1: Srinagar to Zoji La"
-cover: ladhak
+cover: ladhak.jpg
 
 gallery_prefix:
     "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"

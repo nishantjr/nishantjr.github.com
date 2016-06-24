@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default.html
-cover: fuji
+cover: fuji.jpg
 ---
 
 I'm making this blog to document my escapades, teach myself writing, practice
