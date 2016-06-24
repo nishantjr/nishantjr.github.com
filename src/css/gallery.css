@@ -19,6 +19,7 @@
 
 .gallery-item {
     border-bottom: none;
+    margin-bottom: 0px;
     margin-left: auto;
     margin-right: auto;
     display: none;
