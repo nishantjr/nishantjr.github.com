@@ -30,6 +30,13 @@ body {
     text-align: right;
 }
 
+footer {
+    text-align: center;
+    padding: 4px;
+    border-top: 1px dashed #aaa;
+}
+
+
 /* right-align tagline */
 header { position: relative; }
 #tag-line {
