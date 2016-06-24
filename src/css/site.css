@@ -72,9 +72,14 @@ h2 {
 
 #content {
     background-color: rgba(256, 256, 256, 0.7);
-    padding: 1em;
     padding-top: 0px;
 }
+
+#content > *
+{ padding-left: 0.5em; padding-right: 0.5em; }
+
+#content > .gallery-container
+{ padding: 0em; }
 
 .post-narrative {
     font-style: oblique;
