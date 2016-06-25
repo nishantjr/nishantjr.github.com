@@ -139,3 +139,12 @@ a:link { text-decoration: none; }
     color: #444;
     font-size: 90%;
 }
+
+figure { position: relative; }
+figure figcaption {
+    position: absolute;
+    left: 15px;
+    bottom: 0px;
+    color: white;
+    text-shadow: 2px 2px 0px black;
+}
