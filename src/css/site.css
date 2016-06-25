@@ -73,6 +73,7 @@ h2 {
 #content {
     background-color: rgba(256, 256, 256, 0.7);
     padding-top: 0px;
+    font-family: serif;
 }
 
 #content > *
