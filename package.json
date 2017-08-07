@@ -30,6 +30,7 @@
     "tinyliquid": "^0.2.31"
   },
   "devDependencies": {
-    "gulp-connect": "^3.2.3"
+    "metalsmith-serve": "0.0.7",
+    "metalsmith-watch": "^1.0.3"
   }
 }
