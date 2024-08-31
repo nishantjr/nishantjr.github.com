@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>{{title}}</title>
+    <title>$title$</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
@@ -12,7 +12,7 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <style>
         body {
-        background: url('/images/covers/{{cover}}.jpg') no-repeat center -100px;
+        background: url('/images/covers/$cover$.jpg') no-repeat center -100px;
         }
     </style>
     <script>
@@ -28,12 +28,12 @@
 <div id='side-bar'>
 <a class='home' href='/'>About</a>
 <ul class='nav'>
-{% for post in collections.blog %}
-    <li {% if post.path == path %} class='currentpage' {% endif %} >
-        <span class='date'>{{post.date | date: '%d %b %Y' }}</span>
-        <a href='/{{post.path}}/'>{{post.title}}</a>
+$for(posts)$
+    <li $if(current)$ class='currentpage' $endif$ >
+        <span class='date'>$date$</span>
+        <a href='$url$'>$title$</a>
      </li>
-{% endfor %}
+$endfor$
 </ul>
 <address>
 <div>Nishant Rodrigues</div>
@@ -52,11 +52,10 @@
 
 <div id='content'>
 <header>
-    <h1 id='title'>{{title}}</h1>
-    <span id='tag-line'>{{tag-line}}</span>
+    <h1 id='title'> $title$ </h1>
+    $if(tag-line)$ <span id='tag-line'> $tag-line$ </span> $endif$
 </header>
-{{contents}}
-{% if comments %}{% include comments.html %}{% endif %}
+$body$
 </div>
 
 </body>

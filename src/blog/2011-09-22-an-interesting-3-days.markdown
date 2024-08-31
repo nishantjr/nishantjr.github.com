@@ -16,7 +16,7 @@ Then Mum calls... It's at home.
 Then we land in *Hong Kong* at 8am IST. I went to meet Naten - Mandar decided 
 to stay behind. Mandar got a bit worried because I didn't come until 
 after an hour. Ate a McDonalds Big Mac for $5 ( thanks for the forex card ) 
-because I didnt have any HK$ on me.
+because I didnt have any HK\$ on me.
 
 We went left for Honk Kong. A Japanese guy who spoke English was sitting at 
 the side of us in the plane. He was on his way back from New Zealand from watching 

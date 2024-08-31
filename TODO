@@ -1,5 +1,0 @@
-* Make a preview-server and automatically rebuild when a file changes.
-* Implement link-test to parse html and find borken internal and external links.
-  See: https://github.com/DavidAnson/check-pages
-* metalsmith-branch: Think about using this to replace inPath.
-  It looks about the same as what I'm doing though.
