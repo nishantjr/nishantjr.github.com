@@ -83,7 +83,7 @@ this trip were trying to kill you;"  "Sure, go ahead, just take a truck from
 Sonamarg to Zoji La."
 
 Left the guest house that morning at eight, bought water and pedals. Finally
-oriented ourselves and were heading out of Srinagar {% height 1600 %} by ten.
+oriented ourselves and were heading out of Srinagar (height 1600m) by ten.
 Rode halfway around the Dal Lake to reach the highway. We celebrated the first
 23 km with a second breakfast and the mixing of the electrolytes.
 
@@ -107,7 +107,7 @@ Sleeping soundly with the sweet knowledge that there's just 20 km of climbing an
 {% include gallery.html name='srinagar' gallery=galleries.srinagar title='Day 1: Srinagar to Sonamarg' %}
 
 We leave around 10:30 the next day after a staple oily omelette breakfast and
-head out towards Zojila. Cycling the gradual ascent to Sonamarg {% height 2800 %},
+head out towards Zojila. Cycling the gradual ascent to Sonamarg (height 2800m),
 we reach there in time for an early lunch not sure when the next stop will
 be. As we go ahead, the ascent becomes steeper, the two-lane highway turns into
 one-lane, and as trucks stop to give their engines a break, not even that. The
@@ -118,7 +118,7 @@ the side of the mountains far far ahead - we wonder where the pass is. Finally
 we're told we're nearing the top, the road is a narrow gully between the ice -
 more of a stream than a road really. We reach smooth paver block-ed section and
 a god sent chai-shop. The chai shop is a tent sitting on top of 2 feet of ice.
-We're told we're at zero-point {% height 3528 %}. We've made it. The 20 km had
+We're told we're at zero-point (height 3528m). We've made it. The 20 km had
 turned into 40 km; it took us 7 hours to do what we thought we'd take 3-4 hours
 to do.
 

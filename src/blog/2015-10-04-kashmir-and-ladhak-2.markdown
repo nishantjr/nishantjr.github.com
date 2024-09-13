@@ -112,7 +112,7 @@ and it turned into quite an adventure. This is a continuation of [part
 
 We left the warm comfort of the tents at 10 the next morning, wearing slippers
 since our shoes had frozen solid! The roads were downhill, but quite damaged by
-the winter ice. We patched 5-6 punctures that day, reaching Dras {% height 3230 %}
+the winter ice. We patched 5-6 punctures that day, reaching Dras (height 3230m)
 around 5pm completing just the distance we had intended to complete the previous
 day. In Dras, we had our first taste of Wazwan with the Rogan Josh from the
 place across the hotel. We ate, showered and fell asleep, exhausted, by 9:30.
@@ -125,7 +125,7 @@ from Sonamarg to Dras over the Zoji La in a day! The road from Dras started of
 quite bad and had us afraid of punctures but quickly got better and quite fun.
 We'd even set up the Garmin camera, though it ran out of space in a few hours.
 
-Reached Kargil {% height 2676 %} at 2:30 and after a bit of confusion about gadi
+Reached Kargil (height 2676m) at 2:30 and after a bit of confusion about gadi
 walas and watch repair men, got brake pads replaced and tubes fixed (our patches
 weren't staying on for too long for some reason - and we were a bit fed up of
 doing it ourselves) and ate lunch with Amit and Binoy. We decided to stay the
@@ -135,11 +135,11 @@ Wazwan.
 At Kargil, we'd decided to start being more careful about timings and food - the
 last 3 days we'd cycled until we'd had almost no energy. We left the hotel by
 830 and were on our way a little past 9. We started off with a puncture and bad
-roads but made good time to Mulbhek {% height 3304 %}, reaching there by 2:30.
+roads but made good time to Mulbhek (height 3304m), reaching there by 2:30.
 Quickly losing interest in the Buddha statue carved into the rock, we found a
 restaurant. Lunch and 3 cups of chai later, we enquired about guest houses.
 Nobody was too sure, but there was a vague idea of a place 10km past the Namik
-La pass {% height 3700 %} 20km ahead.  It was quite a steep climb up to Namik La
+La pass (height 3700m) 20km ahead.  It was quite a steep climb up to Namik La
 but the lunch done its job and we reached the top by 5:30, Saahil seeing
 snowfall for the first time. The snow and wind had gotten quite serious at the
 top so we pushed of quickly down the sweet sweet downhill, stopping for chai and
@@ -153,17 +153,17 @@ And of course, we clean our bikes have baths and a shave ummm... /s
 
 Left Kharbu by 9 and had eaten two breakfasts by 10: coffee and omelettes at the
 Marathi Army Cafe - they serve wada pav, but we went too early; and fresh
-heavenly carb-filled aloo parathas. We climbed Fotula Top {% height 4108 %}
+heavenly carb-filled aloo parathas. We climbed Fotula Top (height 4108m)
 around 2, and reached Lamayuru soon after. On the last trip we'd Fotula was the
 farthest point, so this was all known ground. We ate at one of the guest houses
 we'd stayed at 2 years ago. Passing Khaltse, our planned stop for the night, we
-pushed on to Nurla {% height 3041 %}. At Nurla, the (extremely pretty) resort
+pushed on to Nurla (height 3041m). At Nurla, the (extremely pretty) resort
 we'd stayed at the last time was booked full, and the only other place in town
 was Rs 6000 a night, but we managed to find a very comfortable homestay.
 
 {% include gallery.html name='kharbu' gallery=galleries.kharbu title='Day 6: Zojila to Dras' %}
 
-From Nurla to Leh {% height 3524 %} was quite uneventful, eating at Basgo,
+From Nurla to Leh (height 3524m) was quite uneventful, eating at Basgo,
 ignoring magnetic hill, tea at [Pathar Sahib Gurudvara]. The road of evil,
 christened 2 years ago was an extremely long uphill with a bad headwind and
 dwindling supply of water. It was now sweet sweet downhill, possibly the fastest
