@@ -1,67 +1,6 @@
 ---
 title: "K&L 1: Srinagar to Zoji La"
 cover: ladhak
-
-gallery_prefix:
-    "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"
-galleries:
-  srinagar:
-  - src: "dal-lake.jpg"
-    title: "Dal Lake"
-    details: "Saahil: 'How disappointing. It's just water, not dal.'"
-  - src: "bye-bye.jpg"
-    title: "Goodbye Srinagar"
-    details: " and our second breakfast"
-  - src: "riverside.jpg"
-    title: "Goodbye Srinagar"
-  - src: "tea-break.jpg"
-    details: "The first of many tea-breaks"
-  - src: "bikes-posing.jpg"
-    title: "Aren't they pretty?"
-    details: "They're all clean and shiny... for the last time."
-  - src: "meal-three.jpg"
-    title: "Day 1 / Meal 3"
-    details: "Hipster Saahil and salty bajiyas"
-  - src: "meal-four.jpg"
-    title: "Day 1 / Meal 4"
-    details: "Waiting for sheeks"
-  sonamarg:
-  - src: "omelette-of-the-mountains.jpg"
-    title: "Oily Omelette of the Mountains"
-  - src: "so-smiley.jpg"
-    title: "So smiley"
-    details: "does not know what lies ahead."
-  - src: "saahil-breakfast.jpg"
-  - src: "pee-break.jpg"
-    title: "Watchaa looking at?"
-    details: "Nothing to see move along. I'm definitely not peeing here."
-  - src: "on-the-side-of-the-mountain.jpg"
-    title: "The hills are alive..."
-  - src: "impressionable-young-uns.jpg"
-  - src: "appreciate-the-view.jpg"
-    title: "Saahil indoctrinating the young uns into the way of the cycle."
-  - src: "walk-the-bike.jpg"
-    title: "Cycling the Himalayas... It'll be fun they said."
-  - src: "wall-of-ice.jpg"
-    title: "A wall of ice"
-  - src: "river-or-road.jpg"
-    title: "River or road?"
-  - src: "selfie-towel-head.jpg"
-    title: "Do I need my gloves?"
-  - src: "sweet-paver-blocks.jpg"
-    title: "Sweet sweet paver blocks"
-  - src: "why-is-the-road-so-good.jpg"
-    title: "What is this nonsense?! Why is the road so good?"
-  - src: "chai-stall-from-heaven.jpg"
-    title: "All is forgiven. There is Kawah."
-  - src: "sarjar-and-warmth.jpg"
-    title: "Thank you Sarjar - we owe you."
-  - src: "i-can-feel-my-toes-again.jpg"
-    title: "I can feel my toes again."
-  - src: "ghost-stories.jpg"
-    title: "Ghost stories"
-  - src: "sled-riding.jpg"
-    title: "Sled ride in slippers"
 ---
 
 ::: post-narrative
@@ -104,7 +43,28 @@ next hotel we find and settle in for dinner at a place 15 km before Sonamarg.
 Sleeping soundly with the sweet knowledge that there's just 20 km of climbing and
 40 km of downhill scheduled for the next day.
 
-{% include gallery.html name='srinagar' gallery=galleries.srinagar title='Day 1: Srinagar to Sonamarg' %}
+::: gallery
+
+:::: gallery-caption
+Day 1: Srinagar to Sonamarg
+::::
+
+
+![At Dal Lake: Saahil: "How disappointing. It's just water, not dal."](/images/kashmir-and-ladhak/srinagar/600x470/dal-lake.jpg)
+
+![Goodbye Srinagar and our second breakfast](/images/kashmir-and-ladhak/srinagar/600x470/bye-bye.jpg)
+
+![Goodbye Srinagar](/images/kashmir-and-ladhak/srinagar/600x470/riverside.jpg)
+
+![The first of many tea-breaks](/images/kashmir-and-ladhak/srinagar/600x470/tea-break.jpg)
+
+![Aren't they pretty? They're all clean and shiny... for the last time.](/images/kashmir-and-ladhak/srinagar/600x470/bikes-posing.jpg)
+
+![Day 1 / Meal 3](/images/kashmir-and-ladhak/srinagar/600x470/meal-three.jpg)
+
+![Day 1 / Meal 4: Waiting for sheeks](/images/kashmir-and-ladhak/srinagar/600x470/meal-four.jpg)
+
+:::
 
 We leave around 10:30 the next day after a staple oily omelette breakfast and
 head out towards Zojila. Cycling the gradual ascent to Sonamarg (height 2800m),
@@ -135,7 +95,49 @@ stories. We slept under five layers of blankets with a Kangri to warm us up and
 woke up warm and refreshed.  Sarjar and Co. took us for a bit of sled-riding in
 the morning too.
 
-{% include gallery.html name='sonamarg' gallery=galleries.sonamarg title='Day 2: Sonamarg to Zojila' %}
+::: gallery
+:::: gallery-caption
+Day 2: Sonamarg to Zojila
+::::
+
+![Oily Omelette of the Mountains](/images/kashmir-and-ladhak/sonamarg/600x470/omelette-of-the-mountains.jpg)
+
+![So smiley: does not know what lies ahead.](/images/kashmir-and-ladhak/sonamarg/600x470/so-smiley.jpg)
+
+![](/images/kashmir-and-ladhak/sonamarg/600x470/saahil-breakfast.jpg)
+
+![Watchaa looking at? Nothing to see move along. I'm definitely not peeing here.](/images/kashmir-and-ladhak/sonamarg/600x470/pee-break.jpg)
+
+![The hills are alive...](/images/kashmir-and-ladhak/sonamarg/600x470/on-the-side-of-the-mountain.jpg)
+
+![](/images/kashmir-and-ladhak/sonamarg/600x470/impressionable-young-uns.jpg)
+
+![Saahil indoctrinating the young uns into the way of the cycle.](/images/kashmir-and-ladhak/sonamarg/600x470/appreciate-the-view.jpg)
+
+![Cycling the Himalayas... It'll be fun they said.](/images/kashmir-and-ladhak/sonamarg/600x470/walk-the-bike.jpg)
+
+![A wall of ice](/images/kashmir-and-ladhak/sonamarg/600x470/wall-of-ice.jpg)
+
+![River or road?](/images/kashmir-and-ladhak/sonamarg/600x470/river-or-road.jpg)
+
+![Do I need my gloves?](/images/kashmir-and-ladhak/sonamarg/600x470/selfie-towel-head.jpg)
+
+![Sweet sweet paver blocks](/images/kashmir-and-ladhak/sonamarg/600x470/sweet-paver-blocks.jpg)
+
+![What is this nonsense?! Why is the road so good?](/images/kashmir-and-ladhak/sonamarg/600x470/why-is-the-road-so-good.jpg)
+
+![All is forgiven. There is Kawah.](/images/kashmir-and-ladhak/sonamarg/600x470/chai-stall-from-heaven.jpg)
+
+![Thank you Sarjar - we owe you.](/images/kashmir-and-ladhak/sonamarg/600x470/sarjar-and-warmth.jpg)
+
+![I can feel my toes again.](/images/kashmir-and-ladhak/sonamarg/600x470/i-can-feel-my-toes-again.jpg)
+
+![Ghost stories](/images/kashmir-and-ladhak/sonamarg/600x470/ghost-stories.jpg)
+
+![Sled ride in slippers](/images/kashmir-and-ladhak/sonamarg/600x470/sled-riding.jpg)
+
+:::
+
 
 We were extremely lucky---Sarjar had just come the previous day to set up shop.
 It had snowed quite heavily too---a couple of feet of snow---but was bright and

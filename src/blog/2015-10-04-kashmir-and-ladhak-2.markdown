@@ -1,105 +1,6 @@
 ---
 title: "K&L 2: Zoji La to Leh"
 cover: ladhak
-
-gallery_prefix:
-    "https://dl.dropboxusercontent.com/u/105618576/io.github.nishantjr/images/kashmir-and-ladhak"
-galleries:
-  zojila:
-  - src: "slippers-ofcourse.jpg"
-    title: "Real men wear slippers"
-    details: "Our shoes were frozen solid, so we wore slippers."
-  - src: "i-hate-to-say-goodbye.jpg"
-    title: "I hate to say goodbye"
-  - src: "eyes-on-the-horizon.jpg"
-  - src: "the-land-of-ice-and-snow.jpg"
-    title: "The land of Ice and Snow"
-  - src: "rolling.jpg"
-    title: "All weather cycle gear: Slippers"
-  - src: "the-road-ahead.jpg"
-  - src: "so-cold.jpg"
-  - src: "kick-starting.jpg"
-    title: "I don't think you need to kick start a cycle."
-  - src: "good-old-rubber-chappals.jpg"
-  - src: "the-problem-with-the-himalayas.jpg"
-    title: "The problem with the himalayas..."
-    details: "is that they're too big. They dont fit in the camera frame.
-    Saahil's a speck in the center"
-  - src: "yawn-the-view.jpg"
-    title: "Yawwwn. Such a boring view"
-  - src: "dunno.jpg"
-  - src: "moo-cow-moo.jpg"
-  - src: "ups-and-downs.jpg"
-    title: "There are many ups and downs and the road is rough..."
-  - src: "army-cut-road.jpg"
-    title: "Cut right through the hills"
-  - src: "selfie-2.jpg"
-  - src: "the-long-and-winding-road.jpg"
-    title: "The long and winding road"
-  - src: "so-much-smiling.jpg"
-    title: "So much smiling"
-  - src: "so-much-more-smiling.jpg"
-    title: "So much more smiling"
-  - src: "the-fifth-puncture.jpg"
-    title: "The Fifth Puncture"
-  - src: "kargil-battle-school-visit-again.jpg"
-    title: "Kargil Battle School - Visit again"
-  - src: "drass-view.jpg"
-    title: "Dras view"
-  - src: "saahil-dras-view.jpg"
-  kargil:
-  - src: "kargil-night-photo-building.jpg"
-  - src: "kargil-night-photo-silhouette.jpg"
-  - src: "goodbye-kargil.jpg"
-  - src: "goodbye-kargil-2.jpg"
-  - src: "puncture-free.jpg"
-  - src: "post-kargil-roads.jpg"
-  - src: "post-kargil-roads-2.jpg"
-  - src: "post-kargil-roads-3.jpg"
-  - src: "military-convoy.jpg"
-  - src: "big-rock.jpg"
-  - src: "the-tourist-attraction.jpg"
-  - src: "but-foods-more-important.jpg"
-  - src: "the-mulbek-view.jpg"
-  - src: "snowing.jpg"
-  - src: "snowing-2.jpg"
-  namik-la:
-  - src: "010-reached.jpg"
-  - src: "020-talking-to-truck-drivers.jpg"
-  - src: "030-prayer-flags-wecome-us.jpg"
-  - src: "040-selfie-1.jpg"
-  - src: "050-selfie-2.jpg"
-  - src: "060-saahils-new-friend.jpg"
-  - src: "070-saahils-new-friend-2.jpg"
-  - src: "080-saahils-new-friend-3.jpg"
-  - src: "090-begining-to-decend.jpg"
-  - src: "100-are-we-there.jpg"
-  - src: "110-everything-the-ligh-touches.jpg"
-  - src: "120-julley-kharbu.jpg"
-  - src: "130-enquiring-about-lodging.jpg"
-  - src: "140-cozy-homestay.jpg"
-  - src: "150-cozy-homestay-2.jpg"
-  kharbu:
-  - src: "010-mountains-being-dramatic.jpg"
-  - src: "020-mountains-being-dramatic-2.jpg"
-  - src: "030-mountains-being-dramatic-3.jpg"
-  - src: "040-saahil-posing-and-cycling.jpg"
-  - src: "050-what-more-climbing.jpg"
-  - src: "060-fotula-top-is-reached.jpg"
-  - src: "070-group-selfie.jpg"
-  - src: "080-saahil-weird-face.jpg"
-  - src: "085-me-and-my-beau.jpg"
-  - src: "090-saahil-on-dramatic-mountian.jpg"
-  - src: "100-yay-downhill.jpg"
-  - src: "110-looking-at-lamayuru.jpg"
-  - src: "120-lamayuru-being-dramatic.jpg"
-  - src: "130-lunch-time.jpg"
-  - src: "140-flags.jpg"
-  - src: "150-nurla-bridge.jpg"
-  etc:
-  - src: "altitude-profile.jpg"
-    title: Courtesy Himalaya by Bike
-    details: http://www.himalayabybike.com/Himalaya_by_Bike/Leh_Srinagar_route_info.html
 ---
 
 ::: post-narrative
@@ -117,7 +18,58 @@ around 5pm completing just the distance we had intended to complete the previous
 day. In Dras, we had our first taste of Wazwan with the Rogan Josh from the
 place across the hotel. We ate, showered and fell asleep, exhausted, by 9:30.
 
-{% include gallery.html name='zojila' gallery=galleries.zojila title='Day 3: Zojila to Dras' %}
+:::  gallery
+:::: gallery-caption
+Day 3: Zojila to Dras
+::::
+
+![Real men wear slippers: Our shoes were frozen solid, so we wore slippers.](/images/kashmir-and-ladhak/zojila/600x470/slippers-ofcourse.jpg)
+
+![I hate to say goodbye](/images/kashmir-and-ladhak/zojila/600x470/i-hate-to-say-goodbye.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/eyes-on-the-horizon.jpg)
+
+![The land of Ice and Snow](/images/kashmir-and-ladhak/zojila/600x470/the-land-of-ice-and-snow.jpg)
+
+![All weather cycle gear: Slippers](/images/kashmir-and-ladhak/zojila/600x470/rolling.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/the-road-ahead.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/so-cold.jpg)
+
+![I don't think you need to kick start a cycle.](/images/kashmir-and-ladhak/zojila/600x470/kick-starting.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/good-old-rubber-chappals.jpg)
+
+![The problem with the himalayas is that they're too big. They dont fit in the camera frame. Saahil's a speck in the center](/images/kashmir-and-ladhak/zojila/600x470/the-problem-with-the-himalayas.jpg)
+
+![Yawwwn. Such a boring view](/images/kashmir-and-ladhak/zojila/600x470/yawn-the-view.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/dunno.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/moo-cow-moo.jpg)
+
+![There are many ups and downs and the road is rough...](/images/kashmir-and-ladhak/zojila/600x470/ups-and-downs.jpg)
+
+![Cut right through the hills](/images/kashmir-and-ladhak/zojila/600x470/army-cut-road.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/selfie-2.jpg)
+
+![The long and winding road](/images/kashmir-and-ladhak/zojila/600x470/the-long-and-winding-road.jpg)
+
+![So much smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-smiling.jpg)
+
+![So much more smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-more-smiling.jpg)
+
+![The Fifth Puncture](/images/kashmir-and-ladhak/zojila/600x470/the-fifth-puncture.jpg)
+
+![Kargil Battle School - Visit again](/images/kashmir-and-ladhak/zojila/600x470/kargil-battle-school-visit-again.jpg)
+
+![Dras view](/images/kashmir-and-ladhak/zojila/600x470/drass-view.jpg)
+
+![](/images/kashmir-and-ladhak/zojila/600x470/saahil-dras-view.jpg)
+
+:::
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
 Amit and Binoy, who had started the day after we left Srinagar. They'd made it
@@ -148,8 +100,65 @@ guest house at Bod-Kharbu. Find the Guest house but turns out that there's no
 one there. Eat maggi and omelette for dinner again, and are taken to a homestay.
 And of course, we clean our bikes have baths and a shave ummm... /s
 
-{% include gallery.html name='kargil' gallery=galleries.kargil title='Day 5: Kargil to Kharbu' %}
-{% include gallery.html name='namik-la' gallery=galleries.namik-la title='Day 5: Snow at Namik-La' %}
+::: gallery
+:::: gallery-caption
+Day 5: Kargil to Kharbu
+::::
+
+![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-building.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-silhouette.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil-2.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/puncture-free.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-2.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-3.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/military-convoy.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/big-rock.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/the-tourist-attraction.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/but-foods-more-important.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/the-mulbek-view.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/snowing.jpg)
+
+![](/images/kashmir-and-ladhak/kargil/600x470/snowing-2.jpg)
+
+:::
+
+::: gallery
+:::: gallery-caption
+Day 5: Snow at Namik-La
+::::
+
+![](/images/kashmir-and-ladhak/namik-la/600x470/010-reached.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/020-talking-to-truck-drivers.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/030-prayer-flags-wecome-us.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/040-selfie-1.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/050-selfie-2.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/060-saahils-new-friend.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/070-saahils-new-friend-2.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/080-saahils-new-friend-3.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/090-begining-to-decend.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/100-are-we-there.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/110-everything-the-ligh-touches.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/120-julley-kharbu.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/130-enquiring-about-lodging.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/140-cozy-homestay.jpg)
+![](/images/kashmir-and-ladhak/namik-la/600x470/150-cozy-homestay-2.jpg)
+
+:::
 
 Left Kharbu by 9 and had eaten two breakfasts by 10: coffee and omelettes at the
 Marathi Army Cafe - they serve wada pav, but we went too early; and fresh
@@ -161,7 +170,43 @@ pushed on to Nurla (height 3041m). At Nurla, the (extremely pretty) resort
 we'd stayed at the last time was booked full, and the only other place in town
 was Rs 6000 a night, but we managed to find a very comfortable homestay.
 
-{% include gallery.html name='kharbu' gallery=galleries.kharbu title='Day 6: Zojila to Dras' %}
+::: gallery
+:::: gallery-caption
+Day 6: Zojila to Dras
+::::
+![](/images/kashmir-and-ladhak/kharbu/600x470/010-mountains-being-dramatic.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/020-mountains-being-dramatic-2.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/030-mountains-being-dramatic-3.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/040-saahil-posing-and-cycling.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/050-what-more-climbing.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/060-fotula-top-is-reached.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/070-group-selfie.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/080-saahil-weird-face.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/085-me-and-my-beau.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/090-saahil-on-dramatic-mountian.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/100-yay-downhill.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/110-looking-at-lamayuru.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/120-lamayuru-being-dramatic.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/130-lunch-time.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/140-flags.jpg)
+
+![](/images/kashmir-and-ladhak/kharbu/600x470/150-nurla-bridge.jpg)
+
+:::
 
 From Nurla to Leh (height 3524m) was quite uneventful, eating at Basgo,
 ignoring magnetic hill, tea at [Pathar Sahib Gurudvara]. The road of evil,
@@ -182,6 +227,6 @@ let us through. We took some vegetables for Sarjar, and reached Srinagar around
 Spent the next day around Srinagar sampling the Wazwan and shopping, and headed
 home on the big jet plane.
 
-{% include gallery.html name='etc' gallery=galleries.etc title='Altitude Profile' %}
+![Altitude Profile: Courtesy [Himalaya by Bike](http://www.himalayabybike.com/Himalaya_by_Bike/Leh_Srinagar_route_info.html)](/images/kashmir-and-ladhak/etc/600x470/altitude-profile.jpg)
 
 [Pathar Sahib Gurudvara]: http://www.sikhiwiki.org/index.php/Gurdwara_Pathar_Sahib
