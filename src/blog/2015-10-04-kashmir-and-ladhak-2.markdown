@@ -23,52 +23,29 @@ place across the hotel. We ate, showered and fell asleep, exhausted, by 9:30.
 Day 3: Zojila to Dras
 ::::
 
-![Real men wear slippers: Our shoes were frozen solid, so we wore slippers.](/images/kashmir-and-ladhak/zojila/600x470/slippers-ofcourse.jpg)
-
-![I hate to say goodbye](/images/kashmir-and-ladhak/zojila/600x470/i-hate-to-say-goodbye.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/eyes-on-the-horizon.jpg)
-
-![The land of Ice and Snow](/images/kashmir-and-ladhak/zojila/600x470/the-land-of-ice-and-snow.jpg)
-
-![All weather cycle gear: Slippers](/images/kashmir-and-ladhak/zojila/600x470/rolling.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/the-road-ahead.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/so-cold.jpg)
-
-![I don't think you need to kick start a cycle.](/images/kashmir-and-ladhak/zojila/600x470/kick-starting.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/good-old-rubber-chappals.jpg)
-
-![The problem with the himalayas is that they're too big. They dont fit in the camera frame. Saahil's a speck in the center](/images/kashmir-and-ladhak/zojila/600x470/the-problem-with-the-himalayas.jpg)
-
-![Yawwwn. Such a boring view](/images/kashmir-and-ladhak/zojila/600x470/yawn-the-view.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/dunno.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/moo-cow-moo.jpg)
-
-![There are many ups and downs and the road is rough...](/images/kashmir-and-ladhak/zojila/600x470/ups-and-downs.jpg)
-
-![Cut right through the hills](/images/kashmir-and-ladhak/zojila/600x470/army-cut-road.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/selfie-2.jpg)
-
-![The long and winding road](/images/kashmir-and-ladhak/zojila/600x470/the-long-and-winding-road.jpg)
-
-![So much smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-smiling.jpg)
-
-![So much more smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-more-smiling.jpg)
-
-![The Fifth Puncture](/images/kashmir-and-ladhak/zojila/600x470/the-fifth-puncture.jpg)
-
-![Kargil Battle School - Visit again](/images/kashmir-and-ladhak/zojila/600x470/kargil-battle-school-visit-again.jpg)
-
-![Dras view](/images/kashmir-and-ladhak/zojila/600x470/drass-view.jpg)
-
-![](/images/kashmir-and-ladhak/zojila/600x470/saahil-dras-view.jpg)
-
+* ![Real men wear slippers: Our shoes were frozen solid, so we wore slippers.](/images/kashmir-and-ladhak/zojila/600x470/slippers-ofcourse.jpg)
+* ![I hate to say goodbye](/images/kashmir-and-ladhak/zojila/600x470/i-hate-to-say-goodbye.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/eyes-on-the-horizon.jpg)
+* ![The land of Ice and Snow](/images/kashmir-and-ladhak/zojila/600x470/the-land-of-ice-and-snow.jpg)
+* ![All weather cycle gear: Slippers](/images/kashmir-and-ladhak/zojila/600x470/rolling.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/the-road-ahead.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/so-cold.jpg)
+* ![I don't think you need to kick start a cycle.](/images/kashmir-and-ladhak/zojila/600x470/kick-starting.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/good-old-rubber-chappals.jpg)
+* ![The problem with the himalayas is that they're too big. They dont fit in the camera frame. Saahil's a speck in the center](/images/kashmir-and-ladhak/zojila/600x470/the-problem-with-the-himalayas.jpg)
+* ![Yawwwn. Such a boring view](/images/kashmir-and-ladhak/zojila/600x470/yawn-the-view.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/dunno.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/moo-cow-moo.jpg)
+* ![There are many ups and downs and the road is rough...](/images/kashmir-and-ladhak/zojila/600x470/ups-and-downs.jpg)
+* ![Cut right through the hills](/images/kashmir-and-ladhak/zojila/600x470/army-cut-road.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/selfie-2.jpg)
+* ![The long and winding road](/images/kashmir-and-ladhak/zojila/600x470/the-long-and-winding-road.jpg)
+* ![So much smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-smiling.jpg)
+* ![So much more smiling](/images/kashmir-and-ladhak/zojila/600x470/so-much-more-smiling.jpg)
+* ![The Fifth Puncture](/images/kashmir-and-ladhak/zojila/600x470/the-fifth-puncture.jpg)
+* ![Kargil Battle School - Visit again](/images/kashmir-and-ladhak/zojila/600x470/kargil-battle-school-visit-again.jpg)
+* ![Dras view](/images/kashmir-and-ladhak/zojila/600x470/drass-view.jpg)
+* ![](/images/kashmir-and-ladhak/zojila/600x470/saahil-dras-view.jpg)
 :::
 
 Leaving at a late 10:30 again the next day, we met another pair of cyclists -
@@ -105,35 +82,21 @@ And of course, we clean our bikes have baths and a shave ummm... /s
 Day 5: Kargil to Kharbu
 ::::
 
-![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-building.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-silhouette.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil-2.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/puncture-free.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-2.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-3.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/military-convoy.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/big-rock.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/the-tourist-attraction.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/but-foods-more-important.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/the-mulbek-view.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/snowing.jpg)
-
-![](/images/kashmir-and-ladhak/kargil/600x470/snowing-2.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-building.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/kargil-night-photo-silhouette.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/goodbye-kargil-2.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/puncture-free.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-2.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/post-kargil-roads-3.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/military-convoy.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/big-rock.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/the-tourist-attraction.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/but-foods-more-important.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/the-mulbek-view.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/snowing.jpg)
+* ![](/images/kashmir-and-ladhak/kargil/600x470/snowing-2.jpg)
 
 :::
 
@@ -142,21 +105,21 @@ Day 5: Kargil to Kharbu
 Day 5: Snow at Namik-La
 ::::
 
-![](/images/kashmir-and-ladhak/namik-la/600x470/010-reached.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/020-talking-to-truck-drivers.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/030-prayer-flags-wecome-us.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/040-selfie-1.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/050-selfie-2.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/060-saahils-new-friend.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/070-saahils-new-friend-2.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/080-saahils-new-friend-3.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/090-begining-to-decend.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/100-are-we-there.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/110-everything-the-ligh-touches.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/120-julley-kharbu.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/130-enquiring-about-lodging.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/140-cozy-homestay.jpg)
-![](/images/kashmir-and-ladhak/namik-la/600x470/150-cozy-homestay-2.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/010-reached.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/020-talking-to-truck-drivers.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/030-prayer-flags-wecome-us.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/040-selfie-1.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/050-selfie-2.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/060-saahils-new-friend.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/070-saahils-new-friend-2.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/080-saahils-new-friend-3.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/090-begining-to-decend.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/100-are-we-there.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/110-everything-the-ligh-touches.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/120-julley-kharbu.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/130-enquiring-about-lodging.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/140-cozy-homestay.jpg)
+* ![](/images/kashmir-and-ladhak/namik-la/600x470/150-cozy-homestay-2.jpg)
 
 :::
 
@@ -174,37 +137,23 @@ was Rs 6000 a night, but we managed to find a very comfortable homestay.
 :::: gallery-caption
 Day 6: Zojila to Dras
 ::::
-![](/images/kashmir-and-ladhak/kharbu/600x470/010-mountains-being-dramatic.jpg)
 
-![](/images/kashmir-and-ladhak/kharbu/600x470/020-mountains-being-dramatic-2.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/030-mountains-being-dramatic-3.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/040-saahil-posing-and-cycling.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/050-what-more-climbing.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/060-fotula-top-is-reached.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/070-group-selfie.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/080-saahil-weird-face.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/085-me-and-my-beau.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/090-saahil-on-dramatic-mountian.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/100-yay-downhill.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/110-looking-at-lamayuru.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/120-lamayuru-being-dramatic.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/130-lunch-time.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/140-flags.jpg)
-
-![](/images/kashmir-and-ladhak/kharbu/600x470/150-nurla-bridge.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/010-mountains-being-dramatic.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/020-mountains-being-dramatic-2.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/030-mountains-being-dramatic-3.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/040-saahil-posing-and-cycling.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/050-what-more-climbing.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/060-fotula-top-is-reached.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/070-group-selfie.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/080-saahil-weird-face.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/085-me-and-my-beau.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/090-saahil-on-dramatic-mountian.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/100-yay-downhill.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/110-looking-at-lamayuru.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/120-lamayuru-being-dramatic.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/130-lunch-time.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/140-flags.jpg)
+* ![](/images/kashmir-and-ladhak/kharbu/600x470/150-nurla-bridge.jpg)
 
 :::
 

@@ -1,8 +1,30 @@
-.gallery            { max-width: 100%; }
-.gallery img        { display: block; margin: auto }
-.gallery figcaption { color: #666 }
+.gallery            { margin-top: 2px;
+                      border-top: 1px dashed;
+                      border-bottom: 1px dashed;
+                      margin-left: -200px;
+                      margin-right: -200px;
+                    }
+#side-bar           { position: relative; z-index: 100;
+                      background-color: white;
+                    }
+
+.gallery figcaption { color: #666; }
 .gallery figure     { margin-top: 1ex }
 .gallery-caption    { margin-top: 1ex;
-                      border-top: 1px dashed;
+                      margin-left: 200px;
                     }
+
+.gallery ul         { padding-left: 200px;
+                      overflow-x: scroll;
+                      overflow-y: hidden;
+                      display: flex;
+                      flex-direction: row;
+                      list-style: none;
+                      margin-left: 0;
+                    }
+
+.gallery figure {
+    max-width: 100%;
+    margin: 2px;
+}
 

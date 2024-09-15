@@ -37,8 +37,4 @@
 
     body { max-width: 600px; }
     img { max-width: 100%; }
-
-    .gallery {
-        width: 100%; height: auto;
-    }
 }
