@@ -49,13 +49,13 @@ Sleeping soundly with the sweet knowledge that there's just 20 km of climbing an
 Day 1: Srinagar to Sonamarg
 ::::
 
-* ![At Dal Lake: Saahil: "How disappointing. It's just water, not dal."](/images/kashmir-and-ladhak/srinagar/600x470/dal-lake.jpg)
-* ![Goodbye Srinagar and our second breakfast](/images/kashmir-and-ladhak/srinagar/600x470/bye-bye.jpg)
-* ![Goodbye Srinagar](/images/kashmir-and-ladhak/srinagar/600x470/riverside.jpg)
-* ![The first of many tea-breaks](/images/kashmir-and-ladhak/srinagar/600x470/tea-break.jpg)
-* ![Aren't they pretty? They're all clean and shiny... for the last time.](/images/kashmir-and-ladhak/srinagar/600x470/bikes-posing.jpg)
-* ![Day 1 / Meal 3](/images/kashmir-and-ladhak/srinagar/600x470/meal-three.jpg)
-* ![Day 1 / Meal 4: Waiting for sheeks](/images/kashmir-and-ladhak/srinagar/600x470/meal-four.jpg)
+* ![At Dal Lake: Saahil: "How disappointing. It's just water, not dal."](/images/kashmir-and-ladhak/srinagar/dal-lake.jpg)
+* ![Goodbye Srinagar and our second breakfast](/images/kashmir-and-ladhak/srinagar/bye-bye.jpg)
+* ![Goodbye Srinagar](/images/kashmir-and-ladhak/srinagar/riverside.jpg)
+* ![The first of many tea-breaks](/images/kashmir-and-ladhak/srinagar/tea-break.jpg)
+* ![Aren't they pretty? They're all clean and shiny... for the last time.](/images/kashmir-and-ladhak/srinagar/bikes-posing.jpg)
+* ![Day 1 / Meal 3](/images/kashmir-and-ladhak/srinagar/meal-three.jpg)
+* ![Day 1 / Meal 4: Waiting for sheeks](/images/kashmir-and-ladhak/srinagar/meal-four.jpg)
 
 :::
 
@@ -93,24 +93,24 @@ the morning too.
 Day 2: Sonamarg to Zojila
 ::::
 
-* ![Oily Omelette of the Mountains](/images/kashmir-and-ladhak/sonamarg/600x470/omelette-of-the-mountains.jpg)
-* ![So smiley: does not know what lies ahead.](/images/kashmir-and-ladhak/sonamarg/600x470/so-smiley.jpg)
-* ![](/images/kashmir-and-ladhak/sonamarg/600x470/saahil-breakfast.jpg)
-* ![Watchaa looking at? Nothing to see move along. I'm definitely not peeing here.](/images/kashmir-and-ladhak/sonamarg/600x470/pee-break.jpg)
-* ![The hills are alive...](/images/kashmir-and-ladhak/sonamarg/600x470/on-the-side-of-the-mountain.jpg)
-* ![](/images/kashmir-and-ladhak/sonamarg/600x470/impressionable-young-uns.jpg)
-* ![Saahil indoctrinating the young uns into the way of the cycle.](/images/kashmir-and-ladhak/sonamarg/600x470/appreciate-the-view.jpg)
-* ![Cycling the Himalayas... It'll be fun they said.](/images/kashmir-and-ladhak/sonamarg/600x470/walk-the-bike.jpg)
-* ![A wall of ice](/images/kashmir-and-ladhak/sonamarg/600x470/wall-of-ice.jpg)
-* ![River or road?](/images/kashmir-and-ladhak/sonamarg/600x470/river-or-road.jpg)
-* ![Do I need my gloves?](/images/kashmir-and-ladhak/sonamarg/600x470/selfie-towel-head.jpg)
-* ![Sweet sweet paver blocks](/images/kashmir-and-ladhak/sonamarg/600x470/sweet-paver-blocks.jpg)
-* ![What is this nonsense?! Why is the road so good?](/images/kashmir-and-ladhak/sonamarg/600x470/why-is-the-road-so-good.jpg)
-* ![All is forgiven. There is Kawah.](/images/kashmir-and-ladhak/sonamarg/600x470/chai-stall-from-heaven.jpg)
-* ![Thank you Sarjar - we owe you.](/images/kashmir-and-ladhak/sonamarg/600x470/sarjar-and-warmth.jpg)
-* ![I can feel my toes again.](/images/kashmir-and-ladhak/sonamarg/600x470/i-can-feel-my-toes-again.jpg)
-* ![Ghost stories](/images/kashmir-and-ladhak/sonamarg/600x470/ghost-stories.jpg)
-* ![Sled ride in slippers](/images/kashmir-and-ladhak/sonamarg/600x470/sled-riding.jpg)
+* ![Oily Omelette of the Mountains](/images/kashmir-and-ladhak/sonamarg/omelette-of-the-mountains.jpg)
+* ![So smiley: does not know what lies ahead.](/images/kashmir-and-ladhak/sonamarg/so-smiley.jpg)
+* ![](/images/kashmir-and-ladhak/sonamarg/saahil-breakfast.jpg)
+* ![Watchaa looking at? Nothing to see move along. I'm definitely not peeing here.](/images/kashmir-and-ladhak/sonamarg/pee-break.jpg)
+* ![The hills are alive...](/images/kashmir-and-ladhak/sonamarg/on-the-side-of-the-mountain.jpg)
+* ![](/images/kashmir-and-ladhak/sonamarg/impressionable-young-uns.jpg)
+* ![Saahil indoctrinating the young uns into the way of the cycle.](/images/kashmir-and-ladhak/sonamarg/appreciate-the-view.jpg)
+* ![Cycling the Himalayas... It'll be fun they said.](/images/kashmir-and-ladhak/sonamarg/walk-the-bike.jpg)
+* ![A wall of ice](/images/kashmir-and-ladhak/sonamarg/wall-of-ice.jpg)
+* ![River or road?](/images/kashmir-and-ladhak/sonamarg/river-or-road.jpg)
+* ![Do I need my gloves?](/images/kashmir-and-ladhak/sonamarg/selfie-towel-head.jpg)
+* ![Sweet sweet paver blocks](/images/kashmir-and-ladhak/sonamarg/sweet-paver-blocks.jpg)
+* ![What is this nonsense?! Why is the road so good?](/images/kashmir-and-ladhak/sonamarg/why-is-the-road-so-good.jpg)
+* ![All is forgiven. There is Kawah.](/images/kashmir-and-ladhak/sonamarg/chai-stall-from-heaven.jpg)
+* ![Thank you Sarjar - we owe you.](/images/kashmir-and-ladhak/sonamarg/sarjar-and-warmth.jpg)
+* ![I can feel my toes again.](/images/kashmir-and-ladhak/sonamarg/i-can-feel-my-toes-again.jpg)
+* ![Ghost stories](/images/kashmir-and-ladhak/sonamarg/ghost-stories.jpg)
+* ![Sled ride in slippers](/images/kashmir-and-ladhak/sonamarg/sled-riding.jpg)
 
 :::
 

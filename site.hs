@@ -1,17 +1,18 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
-import           System.FilePath
-import           Text.Pandoc.Options
-import           Text.Pandoc.Extensions
-import           Hakyll
+import          Data.Monoid (mappend)
+import          System.FilePath
+import          Text.Pandoc.Options
+import          Text.Pandoc.Extensions
+import          Hakyll
+import          Hakyll.Images   (loadImage, ensureFitCompiler)
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
-    match "src/images/**" $ do
+    match "src/images/**.jpg" $ do
         route   removeInitialComponent
-        compile copyFileCompiler
+        compile $ loadImage >>= ensureFitCompiler 10000 480
 
     match "src/css/*" $ do
         route   $ removeInitialComponent
