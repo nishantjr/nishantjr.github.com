@@ -13,10 +13,10 @@ install_stack() {
     if stackver=$(stack --version); then
         if ! [[ "$stackver" =~ ^Version\ ${STACK_VERSION},.* ]]; then
             echo "WARNING: Tested with stack version $STACK_VERSION, currently using:"
-		    echo "$stackver"
-	    fi
-		return
-	fi
+            echo "$stackver"
+        fi
+        return
+    fi
 
     echo "Installing stack to $stackbin/"
     echo "This may need to sudo to install additional OS packages."
