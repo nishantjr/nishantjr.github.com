@@ -43,8 +43,8 @@ install_or_upgrade_stack() {
 
 set_prod_release_branch() {
     curbranch=$(git rev-parse --abbrev-ref HEAD)
-    [[ $curbranch = master ]] || die 1 \
-        '--prod-release works only on `master` branch'
+    [[ $curbranch = main ]] || die 1 \
+        '--prod-release works only on `main` branch'
     relbranch=gh-pages
 }
 
