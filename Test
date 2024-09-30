@@ -54,7 +54,7 @@ set_dev_release_branch() {
         '--dev-release work only on `dev/...` branches'
     relbranch="${curbranch}-release"
     if ! >/dev/null 2>&1 git rev-parse --abbrev-ref "$relbranch" --; then
-        gh_pages_first_commit=3d581a16be5f22ccf6ed43cb368cbfc912babfc3
+        gh_pages_first_commit=3fc175ceffd20d462c543c4ed70c21b62aae7427
         echo "Creating branch $relbranch"
         git branch "$relbranch" "$gh_pages_first_commit"
     fi
