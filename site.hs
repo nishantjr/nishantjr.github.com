@@ -10,6 +10,8 @@ import          Hakyll.Images   (loadImage, ensureFitCompiler)
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
+    version "redirects" $ createRedirects redirects
+
     match "src/images/**.jpg" $ do
         route   removeInitialComponent
         compile $ loadImage >>= ensureFitCompiler 10000 480
@@ -39,6 +41,9 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
+redirects =
+    [ ("blog/2015/10/04/kashmir-and-ladhak-2/index.html", "/blog/2015/10/03/kashmir-and-ladhak-1/")
+    ]
 
 -- Site-specific helpers
 -- ---------------------
