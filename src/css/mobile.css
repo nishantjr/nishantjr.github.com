@@ -34,7 +34,13 @@
         color: white;
     }
     #side-bar .currentpage .date { color: white; }
+    #content {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
 
+@media screen and (max-width: 600px) {
     body { max-width: 100%; }
     #content { max-width: 100%; }
 }
