@@ -25,7 +25,7 @@ main = hakyll $ do
                                 setExtension "html"
         compile $ do
             id <- getUnderlying
-            pandocCompilerWith (def::ReaderOptions) (def::WriterOptions)
+            pandocCompiler
                 >>= loadAndApplyTemplate "templates/default.html" ((navCtx id) <> defaultContext)
 
     match "src/blog/*.markdown" $ do
