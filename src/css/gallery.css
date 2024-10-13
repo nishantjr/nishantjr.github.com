@@ -1,9 +1,9 @@
 .gallery            { margin-top: 2px;
                       border-top: 1px dashed;
                       border-bottom: 1px dashed;
-                      margin-left: -200px;
-                      margin-right: -200px;
-                    }
+                      margin-left: -100px;
+                      margin-right: -100px;
+}
 #side-bar           { position: relative; z-index: 100;
                       background-color: white;
                     }
@@ -11,10 +11,10 @@
 .gallery figcaption { color: #666; }
 .gallery figure     { margin-top: 1ex }
 .gallery-caption    { margin-top: 1ex;
-                      margin-left: 200px;
+                      margin-left: 100px;
                     }
 
-.gallery ul         { padding-left: 200px;
+.gallery ul         { padding-left: 100px;
                       overflow-x: scroll;
                       overflow-y: hidden;
                       display: flex;
@@ -22,6 +22,7 @@
                       list-style: none;
                       margin-left: 0;
                     }
+.gallery li         { padding-right: 1em; }
 
 .gallery figure {
     max-width: 100%;
