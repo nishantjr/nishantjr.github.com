@@ -1,21 +1,14 @@
+/* CSS-only carousel that makes use the browser's scrollbar */
+
 .gallery            { margin-top: 2px;
                       border-top: 1px dashed;
                       border-bottom: 1px dashed;
-                      margin-left: -100px;
-                      margin-right: -100px;
-}
-#side-bar           { position: relative; z-index: 100;
-                      background-color: white;
                     }
-
 .gallery figcaption { color: #666; }
 .gallery figure     { margin-top: 1ex }
-.gallery-caption    { margin-top: 1ex;
-                      margin-left: 100px;
-                    }
+.gallery-caption    { margin-top: 1ex; }
 
-.gallery ul         { padding-left: 100px;
-                      overflow-x: scroll;
+.gallery ul         { overflow-x: scroll;
                       overflow-y: hidden;
                       display: flex;
                       flex-direction: row;
@@ -23,9 +16,7 @@
                       margin-left: 0;
                     }
 .gallery li         { padding-right: 1em; }
-
-.gallery figure {
-    max-width: 100%;
-    margin: 2px;
-}
+.gallery figure     { max-width: 100%;
+                      margin: 2px;
+                    }
 

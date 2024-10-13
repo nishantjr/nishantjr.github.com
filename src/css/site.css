@@ -1,41 +1,10 @@
-/* Reset */
-* {
-    padding: 0;
-    margin: 0;
-}
-p { margin:  1em 0 1em 0 }
-ul, ol { margin-left: 2em; }
-
-/* Layout */
-
-#side-bar, #content {
-    display: inline-block;
-    vertical-align: top;
-}
-
-body {
-    padding-top: 300px;
-    margin: auto;
-    max-width: 1000px;
-}
-
-#content {
-    max-width: 600px;
-}
-
-#side-bar {
-    width: 300px;
-    text-align: right;
-}
-
-/* right-align tagline */
-header { position: relative; }
-#tag-line {
-    position: absolute;
-    right: 0px; bottom: 0px;
-}
-
 /* Styling */
+body {
+    background-repeat: no-repeat;
+    background-position: center -100px;
+    padding-top: 300px;
+}
+
 
 #title {
     font-size: 1.4em;
@@ -64,6 +33,7 @@ h2 {
 #content {
     background-color: rgba(256, 256, 256, 0.7);
     padding: 1em;
+    box-sizing: border-box;
     padding-top: 0px;
 }
 

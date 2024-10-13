@@ -1,0 +1,33 @@
+/* Structural elements of the website */
+
+#side-bar, #content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    margin: auto;
+    max-width: 1000px;
+}
+
+#content {
+    max-width: 600px;
+}
+@media screen and (max-width: 600px) {
+    body { max-width: 100%; }
+    #content { max-width: 100%; }
+}
+
+
+#side-bar {
+    width: 300px;
+    text-align: right;
+}
+
+/* right-align tagline */
+header { position: relative; }
+#tag-line {
+    position: absolute;
+    right: 0px; bottom: 0px;
+}
+
