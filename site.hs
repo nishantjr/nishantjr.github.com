@@ -12,7 +12,7 @@ main :: IO ()
 main = hakyll $ do
     version "redirects" $ createRedirects redirects
 
-    match "src/images/**.jpg" $ do
+    match ("src/images/**.jpg" .||. "src/images/**.png") $ do
         route   removeInitialComponent
         compile $ loadImage >>= ensureFitCompiler 10000 480
 
