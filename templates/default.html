@@ -24,7 +24,7 @@
     </script>
 </head>
 <body>
-<div id='side-bar'>
+<nav id='side-bar'>
 <a class='home' href='/'>About</a>
 <ul class='nav'>
 $for(posts)$
@@ -46,16 +46,15 @@ $endfor$
     <img alt="Creative Commons License"
          src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" />
     </a>
-</div>
-</div>
+</nav>
 
-<div id='content'>
+<article id='content'>
 <header>
     <h1 id='title'> $title$ </h1>
     $if(tag-line)$ <span id='tag-line'> $tag-line$ </span> $endif$
 </header>
 $body$
-</div>
+</article>
 
 </body>
 </html>
