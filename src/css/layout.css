@@ -1,33 +1,42 @@
 /* Structural elements of the website */
 
-#side-bar, #content {
-    display: inline-block;
-    vertical-align: top;
-}
 
-body {
-    margin: auto;
-    max-width: 1000px;
-}
+/* Center when window is wider than 1000px. */
+body        { margin: auto; max-width: 1000px }
 
-#content {
-    max-width: 600px;
-}
-@media screen and (max-width: 600px) {
-    body { max-width: 100%; }
-    #content { max-width: 100%; }
-}
+/* Body contains `#side-bar`, a sidebar containing the navigation links,
+ * and the main `#content` div. We keep the max-width of the content at 600px
+ * for readability.
+ */
+#content    { max-width: 600px; }
 
 
-#side-bar {
-    width: 300px;
-    text-align: right;
+/* The flex box layout is much easier to work with than the traditional layout.
+ */
+body        { display: flex; }
+
+/* When wide enough we place the sidebar on the left, using the default
+ * `flex-direct: row`. In this case we restrict the width of the sidebar
+ * to 300px.
+ */
+
+/* In this case, we restrict the width, and right align the text.
+ * We also add a vertical offset so that the navigation is below
+ * the main content's title.
+ */
+@media (width > 1000px) {
+#side-bar   { width: 300px;
+              text-align: right;
+              margin-top: 85px;
+            }
 }
 
-/* right-align tagline */
-header { position: relative; }
-#tag-line {
-    position: absolute;
-    right: 0px; bottom: 0px;
+/* Otherwise we move it below, using `order` place the sidebar after the
+ * main content.
+ */
+@media (width < 1000px) {
+    body { flex-direction: column; }
+    #content { order: 1; }
+    #side-bar { order: 2; }
 }
 

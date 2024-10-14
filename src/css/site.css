@@ -24,6 +24,14 @@ header {
     border-bottom: 1px solid #bbb;
 }
 
+
+/* right-align tagline */
+header { position: relative; }
+#tag-line {
+    position: absolute;
+    right: 0px; bottom: 0px;
+}
+
 h2 {
     color: #444;
     margin-top: 2em;
@@ -33,7 +41,6 @@ h2 {
 #content {
     background-color: rgba(256, 256, 256, 0.7);
     padding: 1em;
-    box-sizing: border-box;
     padding-top: 0px;
 }
 
@@ -48,7 +55,6 @@ h2 {
     font-size: 80%;
 }
 
-#side-bar { margin-top: 85px; }
 
 #side-bar a:link {
     color: #c44;
@@ -60,6 +66,7 @@ h2 {
     background-color: #c44;
     color: white;
 }
+#side-bar ul { margin-left: 4px; }
 #side-bar li a:hover {
     text-decoration: underline;
 }
@@ -84,7 +91,6 @@ a:link { text-decoration: none; }
 #side-bar > :not(:last-child) {
     border-bottom: 1px dashed #aaa;
 }
-
 #side-bar .home {
     font-weight: bold;
     text-transform: uppercase;
