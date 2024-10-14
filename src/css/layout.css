@@ -35,8 +35,10 @@ body        { display: flex; }
  * main content.
  */
 @media (width < 1000px) {
-    body { flex-direction: column; }
-    #content { order: 1; }
-    #side-bar { order: 2; }
+body        { max-width: 600px;
+              flex-direction: column;
+            }
+#content    { order: 1; }
+#side-bar   { order: 2; }
 }
 
