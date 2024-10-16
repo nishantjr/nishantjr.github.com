@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang='en'>
 <head>
     <title>Jullay!</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <link rel='stylesheet' href='/css/reset.css' />
+    <link rel='stylesheet' href='/css/layout.css' />
     <link rel='stylesheet' href='/css/site.css' />
     <link rel='stylesheet' href='/css/gallery.css' />
     <link rel='stylesheet' href='/css/mobile.css' />
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <style>
-        body {
-        background: url('/images/covers/fuji.jpg') no-repeat center -100px;
-        }
+        body { background-image: url('/images/covers/fuji.jpg'); }
     </style>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -24,8 +24,7 @@
     </script>
 </head>
 <body>
-<div id='side-bar'>
-<a class='home' href='/'>About</a>
+<nav id='side-bar'>
 <ul class='nav'>
 
     <li  >
@@ -65,21 +64,17 @@
 
 </ul>
 <address>
-<div>Nishant Rodrigues</div>
+Nishant Rodrigues
 <a rel='me' href='mailto:nishantjr@gmail.com'><i class="fa fa-envelope"></i></a>
 <a rel='me' href='http://github.com/nishantjr'><i class="fa fa-github"></i></a>
-<a rel='me'href='http://stackoverflow.com/users/1278288/nishantjr'><i class="fa fa-stack-overflow"></i></a>
-<a rel='author' href='http://plus.google.com/+NishantRodrigues1990?rel=author'><i class="fa fa-google-plus"></i></a>
+<a rel='me' href='http://stackoverflow.com/users/1278288/nishantjr'><i class="fa fa-stack-overflow"></i></a>
+<a rel='me' href='http://instagram.com/nishantjr'><i class="fa fa-instagram"></i></a>
 </address>
-    <a rel="license"
-        href="http://creativecommons.org/licenses/by-nc/4.0/">
-    <img alt="Creative Commons License"
-         src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" />
-    </a>
-</div>
-</div>
+<a href='/' class='smallcaps'>About this website</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" class='smallcaps'> License </a>
+</nav>
 
-<div id='content'>
+<article id='content'>
 <header>
     <h1 id='title'> Jullay! </h1>
      <span id='tag-line'> Leh, Ladhak - by cycle. </span> 
@@ -99,9 +94,22 @@ on trains with less stops.</p>
 told to sit around and sleep the whole day at the house with the black gate -
 nothing strenuous like climbing onto the terrace and taking pictures or
 anything ;).</p>
-<p><img src="/images/leh/la-vong-view-teddy.jpg" alt="View from ‘La Vong’" />
+<div class="gallery">
+<ul>
+<li><figure>
+<img src="/images/leh/la-vong-view-teddy.jpg" alt="View from ‘La Vong’" />
+<figcaption aria-hidden="true">View from ‘La Vong’</figcaption>
+</figure></li>
+<li><figure>
 <img src="/images/leh/la-vong-view-sunju-saahil.jpg" alt="From the terrace" />
-<img src="/images/leh/la-vong-leh-palace.jpg" alt="Leh palace" /></p>
+<figcaption aria-hidden="true">From the terrace</figcaption>
+</figure></li>
+<li><figure>
+<img src="/images/leh/la-vong-leh-palace.jpg" alt="Leh palace" />
+<figcaption aria-hidden="true">Leh palace</figcaption>
+</figure></li>
+</ul>
+</div>
 <p>The next day, we walk around Leh, eat ladhaki <a href="http://www.google.com/search?q=khari+biscuit">Khari biscuits</a>, buy dubba’s
 for packed lunch and check out the Leh market, all that. Introduced to the
 people from outside our group of 6 in the room. Met the bicycles - trek 3700s.
@@ -113,14 +121,18 @@ Very climbing oriented gearing. Soup. Dinner. Bournevita. Sleep.</p>
 way - only this time uphill. Saahil and I were selected as the rear guard with
 the green flag, keep the cycle kit with us. Soup. Dinner. Bournevita. Campfire
 (without the fire). Sleep.</p>
-<figure>
+<div class="gallery">
+<ul>
+<li><figure>
 <img src="/images/leh/day-one-we-re-off.jpg" alt="We’re off!" />
 <figcaption aria-hidden="true">We’re off!</figcaption>
-</figure>
-<p><img src="/images/leh/spituk-pana-saahil-saif-arun.jpg" />
-<img src="/images/leh/spituk-view.jpg" />
-<img src="/images/leh/spituk-view-saahil-flags-drown.jpg" />
-<img src="/images/leh/spituk-view-saahil-flags.jpg" /></p>
+</figure></li>
+<li><img src="/images/leh/spituk-pana-saahil-saif-arun.jpg" /></li>
+<li><img src="/images/leh/spituk-view.jpg" /></li>
+<li><img src="/images/leh/spituk-view-saahil-flags-drown.jpg" /></li>
+<li><img src="/images/leh/spituk-view-saahil-flags.jpg" /></li>
+</ul>
+</div>
 <h2 id="road-of-evil">Road of evil</h2>
 <p>It’s uphill, but only slightly… what kills us is the wind - it’s blowing
 against us. The sun’s high up in the sky, making you sweat and the wind
@@ -130,19 +142,33 @@ point about half of us are walking our bikes up. Saahil and I though, we’re
 cycling up about 300 meters, walking back, and taking someone else’s cycle up.
 Finally reach the Sikh gurudvara we’re supposed to have lunch at by 3. It was
 all downhill from there, but in a good way.</p>
-<p><img src="/images/leh/road-of-evil.jpg" alt="Down in the gutter" />
-<img src="/images/leh/all-downhill.jpg" alt="It’s all downhill from here" /></p>
+<div class="gallery">
+<ul>
+<li><figure>
+<img src="/images/leh/road-of-evil.jpg" alt="Down in the gutter" />
+<figcaption aria-hidden="true">Down in the gutter</figcaption>
+</figure></li>
+<li><figure>
+<img src="/images/leh/all-downhill.jpg" alt="It’s all downhill from here" />
+<figcaption aria-hidden="true">It’s all downhill from here</figcaption>
+</figure></li>
+</ul>
+</div>
 <p>Supposedly supposed to magnetically attract cars parked in neutral. Lawl. Just
 a <a href="http://en.wikipedia.org/wiki/Magnetic_hill">bad optical illusion</a></p>
 <p>Met some brake-fixing, pen-knife-giving road-tripping dudes from Bangalore.</p>
 <p>Freezing water, if you last 2-3 minutes in the water, the pain give way to
 numbness and it becomes quite nice.</p>
-<p><img src="/images/leh/indus-banks-handlebar.jpg" />
-<img src="/images/leh/indus-banks-valley-view.jpg" />
-<img src="/images/leh/indus-chilling-on-the.jpg" />
-<img src="/images/leh/indus-pano.jpg" />
-<img src="/images/leh/indus-view-of-bridge.jpg" />
-<img src="/images/leh/indus-view-of.jpg" /></p>
+<div class="gallery">
+<ul>
+<li><img src="/images/leh/indus-banks-handlebar.jpg" /></li>
+<li><img src="/images/leh/indus-banks-valley-view.jpg" /></li>
+<li><img src="/images/leh/indus-chilling-on-the.jpg" /></li>
+<li><img src="/images/leh/indus-pano.jpg" /></li>
+<li><img src="/images/leh/indus-view-of-bridge.jpg" /></li>
+<li><img src="/images/leh/indus-view-of.jpg" /></li>
+</ul>
+</div>
 <!-- Kids at basgo; ask Madhuri for pics -->
 <h2 id="from-basgo">From basgo</h2>
 <p><img src="/images/leh/nurla-bus.jpg" /></p>
@@ -151,9 +177,13 @@ the addictiveness of <a href="http://en.wikipedia.org/wiki/Wai_Wai_(food)">Wai W
 without it’s mention.</p>
 <h2 id="nurla-camp">Nurla camp</h2>
 <p>More of a resort than a camp and bloody pretty.</p>
-<p><img src="/images/leh/nurla-chilling-rocks.jpg" />
-<img src="/images/leh/nurla-sunrise-flags.jpg" />
-<img src="/images/leh/nurla-viewing-the-view.jpg" /></p>
+<div class="gallery">
+<ul>
+<li><img src="/images/leh/nurla-chilling-rocks.jpg" /></li>
+<li><img src="/images/leh/nurla-sunrise-flags.jpg" /></li>
+<li><img src="/images/leh/nurla-viewing-the-view.jpg" /></li>
+</ul>
+</div>
 <h2 id="nurla-to-lamayuru">Nurla to Lamayuru</h2>
 <p>// Sorry no pictures - batteries were dead</p>
 <p>Played a game of intensive ludo - prerequisites: A ludo board, dice, counters,
@@ -167,11 +197,15 @@ Top, the highest point of the Leh-Srinagar Highway. We left pretty late, and
 expected to miss breakfast before we leave for Kaltse. We took roughly an hour
 and a half to climb up to the pass, 10 minutes up there, and half an hour back
 down.</p>
-<p><img src="/images/leh/lamayuru-fotula-trippy-flags.jpg" />
-<img src="/images/leh/lamayuru-fotula-trippy-flags-w-people.jpg" />
-<img src="/images/leh/lamayuru-fotula-view.jpg" />
-<img src="/images/leh/lamayuru-fotula-view-saahil.jpg" />
-<img src="/images/leh/lamayuru-sumit-guardtower.jpg" /></p>
+<div class="gallery">
+<ul>
+<li><img src="/images/leh/lamayuru-fotula-trippy-flags.jpg" /></li>
+<li><img src="/images/leh/lamayuru-fotula-trippy-flags-w-people.jpg" /></li>
+<li><img src="/images/leh/lamayuru-fotula-view.jpg" /></li>
+<li><img src="/images/leh/lamayuru-fotula-view-saahil.jpg" /></li>
+<li><img src="/images/leh/lamayuru-sumit-guardtower.jpg" /></li>
+</ul>
+</div>
 <p>When we got back, the guys running the place we were staying we nice
 enough to re-open the breakfast buffet. Everyone stuffed themselves.</p>
 <p>Since clearly our plan of eating samosas at Tiger Hill Cafe was clearly not
@@ -191,9 +225,13 @@ chai ever.) and biscuits too.</p>
 <p>Headed off on a road trip to Pangong Lake, 6 hour ride each way, pretty views.
 As in no the normal Ladhakh view pretty - that’s gotten boring by this point.
 Discovered Kawa - kashmiri tea - and was of course immediately addicted to it.</p>
-<p><img src="/images/leh/pangong-not-being-chased.jpg" />
-<img src="/images/leh/pangong-arun-view.jpg" />
-<img src="/images/leh/pangong-view-water.jpg" /></p>
+<div class="gallery">
+<ul>
+<li><img src="/images/leh/pangong-not-being-chased.jpg" /></li>
+<li><img src="/images/leh/pangong-arun-view.jpg" /></li>
+<li><img src="/images/leh/pangong-view-water.jpg" /></li>
+</ul>
+</div>
 <p>Got back and gathered most of the group for an ‘authentic Tibetan meal’.</p>
 <p>Left the next day via Srinagar</p>
 <p><img src="/images/leh/srinagar-boat-houses.jpg" /></p>
@@ -228,7 +266,7 @@ Discovered Kawa - kashmiri tea - and was of course immediately addicted to it.</
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 </div>
 
-</div>
+</article>
 
 </body>
 </html>

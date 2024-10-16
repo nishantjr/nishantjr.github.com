@@ -1,0 +1,1 @@
+body{margin:auto;max-width:1000px}#content{max-width:600px}body{display:flex}@media (width>1000px){#side-bar{width:300px;text-align:right;margin-top:85px}}@media (width < 1000px){body{max-width:600px;flex-direction:column}#content{order:1}#side-bar{order:2}}
