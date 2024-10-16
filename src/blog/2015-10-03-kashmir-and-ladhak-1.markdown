@@ -1,6 +1,6 @@
 ---
 title: "Kashmir & Ladhak"
-cover: ladhak
+cover: fuji
 ---
 
 ::: post-narrative
