@@ -30,7 +30,7 @@ body        { display: flex; }
 /* Otherwise we move it below, using `order` place the sidebar after the
  * main content.
  */
-@media (width < 900px) {
+@media (width <= 900px) {
   body      { max-width: 600px;
               flex-direction: column;
             }
