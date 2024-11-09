@@ -28,7 +28,7 @@ main = hakyll $ do
             pandocCompiler
                 >>= loadAndApplyTemplate "templates/default.html" ((navCtx id) <> defaultContext)
 
-    match "src/blog/*.markdown" $ do
+    match "src/blog/*.md" $ do
         route   $ composeRoutes removeInitialComponent $
                   composeRoutes dateTitleRoute
                                 (setExtension "html")
