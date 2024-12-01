@@ -7,7 +7,7 @@ import          Text.Pandoc.Extensions
 import          Hakyll
 import          Hakyll.Images   (loadImage, ensureFitCompiler)
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
     version "redirects" $ createRedirects redirects
@@ -19,6 +19,14 @@ main = hakyll $ do
     match "src/css/*" $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
+
+    match "src/resume.md" $ do
+        route   $ composeRoutes removeInitialComponent $
+                                setExtension "html"
+        compile $ do getResourceBody
+                     >>= applyAsTemplate defaultContext
+                     >>= renderPandoc
+                     >>= loadAndApplyTemplate "templates/resume.html" defaultContext
 
     match "src/index.md" $ do
         route   $ composeRoutes removeInitialComponent $
