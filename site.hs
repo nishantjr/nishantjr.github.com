@@ -20,7 +20,7 @@ main = hakyll $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
 
-    match "src/index.md" $ do
+    match ("src/index.md" .||. "src/resume.md") $ do
         route   $ composeRoutes removeInitialComponent $
                                 setExtension "html"
         compile $ do
