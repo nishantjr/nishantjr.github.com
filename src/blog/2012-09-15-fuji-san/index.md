@@ -1,6 +1,8 @@
 ---
 title: "Fuji-San"
 cover: fuji
+description: >
+    Rain-drenched climbing Mt. Fuji
 ---
 
 Last weekend we made our trip to Fuji-san. Expecting an easy trip to the top

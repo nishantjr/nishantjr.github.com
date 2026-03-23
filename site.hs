@@ -44,7 +44,23 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/comments.html" postContext
                 >>= loadAndApplyTemplate "templates/default.html"  ((navCtx id) <> postContext)
 
+
+    create ["atom.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postContext
+            posts <- recentFirst =<< loadAllSnapshots "src/blog/**/index.md" "content"
+            renderAtom atomCfg feedCtx posts
+
     match "templates/*" $ compile templateBodyCompiler
+
+atomCfg = FeedConfiguration
+    { feedTitle       = "Nishant's Blog"
+    , feedDescription = "Just some ramblings"
+    , feedAuthorName  = "Nishant Rodrigues"
+    , feedAuthorEmail = "no-reply@example.com" --- don't want to encourage spam.
+    , feedRoot        = "https://nishantjr.github.io/"
+    }
 
 redirects =
     [ ("blog/2015/10/04/kashmir-and-ladhak-2/index.html", "/blog/2015/10/03/kashmir-and-ladhak-1/")

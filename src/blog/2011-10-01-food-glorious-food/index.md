@@ -1,6 +1,8 @@
 ---
 title: Food, glorious food.
 cover: fuji
+description: >
+    First lessons in Japanese
 ---
 
 Went with Tomo and his friend Yoshisa to a place called 'Na Be Zo' for the first real

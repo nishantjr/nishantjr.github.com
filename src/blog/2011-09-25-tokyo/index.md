@@ -1,6 +1,8 @@
 ---
 title: Tokyo.
 cover: fuji
+description: >
+    First days in Tokyo.
 ---
 
 Today we went to Yoyogi park with Rekha (stays in room 403; from Banglore)

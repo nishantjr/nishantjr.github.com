@@ -1,6 +1,8 @@
 ---
 title: Danda Coastal Road
 cover: city
+description: >
+    The Danda Coastal Road, the only coastal road I can love.
 ---
 
 ::: gallery

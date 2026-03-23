@@ -1,5 +1,9 @@
 ---
 title: An Interesting 3 Days
+description: >
+    I've just moved to Tokyo.
+    I'm welcomed with a Mumbai-monsoon weather--there's a typhoon.
+    It feels like home already.
 cover: fuji
 ---
 

@@ -2,6 +2,8 @@
 title: The Yamanote
 tag-line: ...learning Japanese at Kobans...
 cover: fuji
+description: >
+    A bike trip around Tokyo.
 ---
 
 Some weeks ago I decided that a good way of rounding off what I had seen of

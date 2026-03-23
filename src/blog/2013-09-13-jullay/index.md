@@ -2,6 +2,8 @@
 title: Jullay!
 cover: fuji
 tag-line: Leh, Ladhak - by cycle.
+description: >
+    Cycling in the Himalayas!
 ---
 
 One mid august Sunday I get a call from Saahil asking if I want to get Leh -

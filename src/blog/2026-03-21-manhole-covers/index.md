@@ -2,6 +2,8 @@
 title: On Manhole Covers
 cover: city
 layout: default.html
+description: >
+    Musings about manhole covers
 ---
 
 Manhole covers are a seemingly mundane piece of city infrastructure that give
