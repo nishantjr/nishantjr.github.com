@@ -27,9 +27,9 @@ anything ;).
 
 ::: gallery
 
-* ![View from 'La Vong'](/images/leh/la-vong-view-teddy.jpg)
-* ![From the terrace](/images/leh/la-vong-view-sunju-saahil.jpg)
-* ![Leh palace](/images/leh/la-vong-leh-palace.jpg)
+* ![View from 'La Vong'](./la-vong-view-teddy.jpg)
+* ![From the terrace](./la-vong-view-sunju-saahil.jpg)
+* ![Leh palace](./la-vong-leh-palace.jpg)
 
 :::
 
@@ -52,11 +52,11 @@ the green flag, keep the cycle kit with us. Soup. Dinner. Bournevita. Campfire
 
 ::: gallery
 
-* ![We're off!](/images/leh/day-one-we-re-off.jpg)
-* ![](/images/leh/spituk-pana-saahil-saif-arun.jpg)
-* ![](/images/leh/spituk-view.jpg)
-* ![](/images/leh/spituk-view-saahil-flags-drown.jpg)
-* ![](/images/leh/spituk-view-saahil-flags.jpg)
+* ![We're off!](./day-one-we-re-off.jpg)
+* ![](./spituk-pana-saahil-saif-arun.jpg)
+* ![](./spituk-view.jpg)
+* ![](./spituk-view-saahil-flags-drown.jpg)
+* ![](./spituk-view-saahil-flags.jpg)
 
 :::
 
@@ -78,8 +78,8 @@ all downhill from there, but in a good way.
 
 ::: gallery
 
-* ![Down in the gutter](/images/leh/road-of-evil.jpg)
-* ![It's all downhill from here](/images/leh/all-downhill.jpg)
+* ![Down in the gutter](./road-of-evil.jpg)
+* ![It's all downhill from here](./all-downhill.jpg)
 
 :::
 
@@ -95,12 +95,12 @@ numbness and it becomes quite nice.
 
 ::: gallery
 
-* ![](/images/leh/indus-banks-handlebar.jpg)
-* ![](/images/leh/indus-banks-valley-view.jpg)
-* ![](/images/leh/indus-chilling-on-the.jpg)
-* ![](/images/leh/indus-pano.jpg)
-* ![](/images/leh/indus-view-of-bridge.jpg)
-* ![](/images/leh/indus-view-of.jpg)
+* ![](./indus-banks-handlebar.jpg)
+* ![](./indus-banks-valley-view.jpg)
+* ![](./indus-chilling-on-the.jpg)
+* ![](./indus-pano.jpg)
+* ![](./indus-view-of-bridge.jpg)
+* ![](./indus-view-of.jpg)
 
 :::
 
@@ -109,7 +109,7 @@ numbness and it becomes quite nice.
 From basgo
 ----------
 
-![](/images/leh/nurla-bus.jpg)
+![](./nurla-bus.jpg)
 
 Sanju organized Burji at random corner shop at the lunch stop. We discovered
 the addictiveness of [Wai Wai][] noodles. Soon hardly a conversation went
@@ -124,9 +124,9 @@ More of a resort than a camp and bloody pretty.
 
 ::: gallery
 
-* ![](/images/leh/nurla-chilling-rocks.jpg)
-* ![](/images/leh/nurla-sunrise-flags.jpg)
-* ![](/images/leh/nurla-viewing-the-view.jpg)
+* ![](./nurla-chilling-rocks.jpg)
+* ![](./nurla-sunrise-flags.jpg)
+* ![](./nurla-viewing-the-view.jpg)
 
 :::
 
@@ -152,11 +152,11 @@ down.
 
 ::: gallery
 
-* ![](/images/leh/lamayuru-fotula-trippy-flags.jpg)
-* ![](/images/leh/lamayuru-fotula-trippy-flags-w-people.jpg)
-* ![](/images/leh/lamayuru-fotula-view.jpg)
-* ![](/images/leh/lamayuru-fotula-view-saahil.jpg)
-* ![](/images/leh/lamayuru-sumit-guardtower.jpg)
+* ![](./lamayuru-fotula-trippy-flags.jpg)
+* ![](./lamayuru-fotula-trippy-flags-w-people.jpg)
+* ![](./lamayuru-fotula-view.jpg)
+* ![](./lamayuru-fotula-view-saahil.jpg)
+* ![](./lamayuru-sumit-guardtower.jpg)
 
 :::
 
@@ -193,9 +193,9 @@ Discovered Kawa - kashmiri tea - and was of course immediately addicted to it.
 
 ::: gallery
 
-* ![](/images/leh/pangong-not-being-chased.jpg)
-* ![](/images/leh/pangong-arun-view.jpg)
-* ![](/images/leh/pangong-view-water.jpg)
+* ![](./pangong-not-being-chased.jpg)
+* ![](./pangong-arun-view.jpg)
+* ![](./pangong-view-water.jpg)
 
 :::
 
@@ -203,7 +203,7 @@ Got back and gathered most of the  group for an 'authentic Tibetan meal'.
 
 Left the next day via Srinagar
 
-![](/images/leh/srinagar-boat-houses.jpg)
+![](./srinagar-boat-houses.jpg)
 
 Strava links
 ------------

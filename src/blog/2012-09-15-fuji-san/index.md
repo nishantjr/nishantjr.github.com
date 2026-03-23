@@ -16,7 +16,7 @@ Curry. Then, took the bus to 五合目(Gogoume) - the 5th station and set of for
 the top, inspite of forcasts of cloudy weather and winds, and the threat of
 rain in the clouds, joking as our cheap 300円 raincoats tore.
 
-![Should be around half an hour then?](/images/6-km-they-say.jpg)
+![Should be around half an hour then?](./6-km-they-say.jpg)
 
 In the beginning it seemed I was right - it was quite an easy walk up to past
 the sixth station. Then, a little ahead I saw lines of people - I assumed the

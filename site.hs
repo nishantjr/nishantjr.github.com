@@ -12,8 +12,13 @@ main :: IO ()
 main = hakyll $ do
     version "redirects" $ createRedirects redirects
 
-    match ("src/images/**.jpg" .||. "src/images/**.png") $ do
-        route   removeInitialComponent
+    match ("src/covers/**.jpg") $ do
+        route   $ removeInitialComponent
+        compile $ loadImage
+
+    match ("src/blog/**.jpg" .||. "src/blog/**.png") $ do
+        route   $ composeRoutes removeInitialComponent
+                                dateTitleRoute
         compile $ loadImage >>= ensureFitCompiler 10000 480
 
     match "src/css/*" $ do
@@ -60,7 +65,7 @@ navItemCtx id =
     `mappend` postContext
 
 navCtx :: Identifier -> Context String
-navCtx id = listField "posts" (navItemCtx id) (recentFirst =<< loadAllSnapshots "src/blog/**" "content")
+navCtx id = listField "posts" (navItemCtx id) (recentFirst =<< loadAllSnapshots "src/blog/**/index.md" "content")
 
 -- General helpers
 -- ---------------
@@ -80,18 +85,18 @@ dropIndexHtml key = mapContext f (urlField key) where
             _                 -> url
 
 
--- Converts a route of the form "blog/yyyy-mm-dd-a-title/index.ext" to "blog/yyyy/mm/dd/a-title/index.html"
+-- Converts a route of the form "blog/yyyy-mm-dd-a-title/index.ext" to "blog/yyyy/mm/dd/a-title/index.rest"
 dateTitleRoute :: Routes
 dateTitleRoute = customRoute $ f
   where
-    f id = base </> yyyy </> mm </> dd </> title </> "index.html"
+    f id = base </> yyyy </> mm </> dd </> title </> rest
       where
-        (base, middle, _index_md) = takeThree $ splitPath $ toFilePath id
-        (yyyy, mm, dd, title) = dateTitleComponents middle
+        (base, mid, rest) = intoThree $ splitPath $ toFilePath id
+        (yyyy, mm, dd, title) = dateTitleComponents mid
 
-        takeThree [one, two, three@"index.md"] = (one, two, three)
-        takeThree _ = error
-          "expected path of the form: 'blog/yyyy-mm-dd-a-title/index.ext'"
+        intoThree (base:mid:rest) = (base, mid, joinPath rest)
+        intoThree _ = error
+          "expected path of the form: 'blog/yyyy-mm-dd-a-title/a/s/d/f/index.ext'"
 
         dateTitleComponents p
           = let splitAtHyphen = (\(l, r) -> (l, drop 1 r)) . break (== '-')
