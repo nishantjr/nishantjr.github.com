@@ -1,8 +1,11 @@
 /* CSS-only carousel that makes use the browser's scrollbar */
 
-.gallery            { margin-top: 2px;
+.gallery            { margin-top: 1em;
+                      margin-bottom: 1em;
+
                       border-top: 1px dashed;
                       border-bottom: 1px dashed;
+
                     }
 .gallery figcaption { color: #666; }
 .gallery figure     { margin-top: 1ex }
@@ -10,10 +13,11 @@
 
 .gallery ul         { overflow-x: scroll;
                       overflow-y: hidden;
+                      margin-left: 0;
+                      margin-right: -6em;
                       display: flex;
                       flex-direction: row;
                       list-style: none;
-                      margin-left: 0;
                     }
 .gallery li         { padding-right: 1em; }
 .gallery figure     { max-width: 100%;
