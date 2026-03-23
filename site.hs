@@ -28,7 +28,7 @@ main = hakyll $ do
             pandocCompiler
                 >>= loadAndApplyTemplate "templates/default.html" ((navCtx id) <> defaultContext)
 
-    match "src/blog/*.markdown" $ do
+    match "src/blog/*/index.md" $ do
         route   $ composeRoutes removeInitialComponent $
                   composeRoutes dateTitleRoute
                                 (setExtension "html")
@@ -60,7 +60,7 @@ navItemCtx id =
     `mappend` postContext
 
 navCtx :: Identifier -> Context String
-navCtx id = listField "posts" (navItemCtx id) (recentFirst =<< loadAllSnapshots "src/blog/*" "content")
+navCtx id = listField "posts" (navItemCtx id) (recentFirst =<< loadAllSnapshots "src/blog/**" "content")
 
 -- General helpers
 -- ---------------
@@ -80,20 +80,22 @@ dropIndexHtml key = mapContext f (urlField key) where
             _                 -> url
 
 
--- Converts a route of the form "blog/yyyy-mm-dd-a-title.ext" to "blog/yyyy/mm/dd/a-title/index.html"
+-- Converts a route of the form "blog/yyyy-mm-dd-a-title/index.ext" to "blog/yyyy/mm/dd/a-title/index.html"
 dateTitleRoute :: Routes
-dateTitleRoute = customRoute $ joinComponents . splitComponents . toFilePath
-    where
-      joinComponents (path, y, m, d, title, ext)
-        = path </> y </> m </> d </> title </> "index" <.> ext
-      splitComponents path
-        = let (name, ext) = splitExtension path
-           in flatten (takeDirectory name, dateTitleComponents $ takeFileName name, ext)
-      flatten (path, (y, m, d, title), ext)
-        = (path, y, m, d, title, ext)
-      dateTitleComponents p
-        = let splitAtHyphen = (\(l, r) -> (l, drop 1 r)) . break (== '-')
-              (yyyy, rest)  = splitAtHyphen p
-              (mm,   rest') = splitAtHyphen rest
-              (dd,   title) = splitAtHyphen rest'
-           in (yyyy, mm, dd, title)
+dateTitleRoute = customRoute $ f
+  where
+    f id = base </> yyyy </> mm </> dd </> title </> "index.html"
+      where
+        (base, middle, _index_md) = takeThree $ splitPath $ toFilePath id
+        (yyyy, mm, dd, title) = dateTitleComponents middle
+
+        takeThree [one, two, three@"index.md"] = (one, two, three)
+        takeThree _ = error
+          "expected path of the form: 'blog/yyyy-mm-dd-a-title/index.ext'"
+
+        dateTitleComponents p
+          = let splitAtHyphen = (\(l, r) -> (l, drop 1 r)) . break (== '-')
+                (yyyy, rest)  = splitAtHyphen p
+                (mm,   rest') = splitAtHyphen rest
+                (dd,   title) = splitAtHyphen rest'
+             in (yyyy, mm, dd, title)
