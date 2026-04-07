@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Nishant's Blog</title>
+    <link href="https://nishantjr.github.io//atom.xml" rel="self" />
+    <link href="https://nishantjr.github.io/" />
+    <id>https://nishantjr.github.io//atom.xml</id>
+    <author>
+        <name>Nishant Rodrigues</name>
+        
+        <email>no-reply@example.com</email>
+        
+    </author>
+    <updated>2026-03-21T00:00:00Z</updated>
+    <entry>
+    <title>On Manhole Covers</title>
+    <link href="https://nishantjr.github.io//blog/2026/03/21/manhole-covers/" />
+    <id>https://nishantjr.github.io//blog/2026/03/21/manhole-covers/</id>
+    <published>2026-03-21T00:00:00Z</published>
+    <updated>2026-03-21T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Musings about manhole covers]]></summary>
+</entry>
+<entry>
+    <title>Danda Coastal Road</title>
+    <link href="https://nishantjr.github.io//blog/2026/01/01/danda-coastal-road/" />
+    <id>https://nishantjr.github.io//blog/2026/01/01/danda-coastal-road/</id>
+    <published>2026-01-01T00:00:00Z</published>
+    <updated>2026-01-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[The Danda Coastal Road, the only coastal road I can love.]]></summary>
+</entry>
+<entry>
+    <title>Kashmir & Ladhak</title>
+    <link href="https://nishantjr.github.io//blog/2015/10/03/kashmir-and-ladhak-1/" />
+    <id>https://nishantjr.github.io//blog/2015/10/03/kashmir-and-ladhak-1/</id>
+    <published>2015-10-03T00:00:00Z</published>
+    <updated>2015-10-03T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Cycling from Srinagar to Leh.]]></summary>
+</entry>
+<entry>
+    <title>Jullay!</title>
+    <link href="https://nishantjr.github.io//blog/2013/09/13/jullay/" />
+    <id>https://nishantjr.github.io//blog/2013/09/13/jullay/</id>
+    <published>2013-09-13T00:00:00Z</published>
+    <updated>2013-09-13T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Cycling in the Himalayas!]]></summary>
+</entry>
+<entry>
+    <title>Fuji-San</title>
+    <link href="https://nishantjr.github.io//blog/2012/09/15/fuji-san/" />
+    <id>https://nishantjr.github.io//blog/2012/09/15/fuji-san/</id>
+    <published>2012-09-15T00:00:00Z</published>
+    <updated>2012-09-15T00:00:00Z</updated>
+    <summary type="html"><![CDATA[Rain-drenched climbing Mt. Fuji]]></summary>
+</entry>
+<entry>
+    <title>The Yamanote</title>
+    <link href="https://nishantjr.github.io//blog/2011/12/10/yamanote-madness/" />
+    <id>https://nishantjr.github.io//blog/2011/12/10/yamanote-madness/</id>
+    <published>2011-12-10T00:00:00Z</published>
+    <updated>2011-12-10T00:00:00Z</updated>
+    <summary type="html"><![CDATA[A bike trip around Tokyo.]]></summary>
+</entry>
+<entry>
+    <title>Food, glorious food.</title>
+    <link href="https://nishantjr.github.io//blog/2011/10/01/food-glorious-food/" />
+    <id>https://nishantjr.github.io//blog/2011/10/01/food-glorious-food/</id>
+    <published>2011-10-01T00:00:00Z</published>
+    <updated>2011-10-01T00:00:00Z</updated>
+    <summary type="html"><![CDATA[First lessons in Japanese]]></summary>
+</entry>
+<entry>
+    <title>Tokyo.</title>
+    <link href="https://nishantjr.github.io//blog/2011/09/25/tokyo/" />
+    <id>https://nishantjr.github.io//blog/2011/09/25/tokyo/</id>
+    <published>2011-09-25T00:00:00Z</published>
+    <updated>2011-09-25T00:00:00Z</updated>
+    <summary type="html"><![CDATA[First days in Tokyo.]]></summary>
+</entry>
+<entry>
+    <title>An Interesting 3 Days</title>
+    <link href="https://nishantjr.github.io//blog/2011/09/22/an-interesting-3-days/" />
+    <id>https://nishantjr.github.io//blog/2011/09/22/an-interesting-3-days/</id>
+    <published>2011-09-22T00:00:00Z</published>
+    <updated>2011-09-22T00:00:00Z</updated>
+    <summary type="html"><![CDATA[I've just moved to Tokyo. I'm welcomed with a Mumbai-monsoon weather--there's a typhoon. It feels like home already.
+]]></summary>
+</entry>
+
+</feed>
