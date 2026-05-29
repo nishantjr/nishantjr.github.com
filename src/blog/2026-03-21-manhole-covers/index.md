@@ -49,6 +49,6 @@ They also make great for great postcards: I made prints of drain hardware
 in Shanghai, and sent them off.
 ::::
 
-[Shanghai!](./9999-shanghai.jpg)
+<!-- ![Shanghai!](./9999-shanghai.jpg) -->
 
 :::
