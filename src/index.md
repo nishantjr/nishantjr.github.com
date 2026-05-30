@@ -19,7 +19,7 @@ In part it is a celebration of the whimsical place the internet was.
 In part it is a push back against the algorithmization of our
 online lives. The web used to be distributed,
 I can't say it is anymore, with its take-over by the vampiric tech-corps
-and the grifting web 3.0 bros. Much as been lost.
+and the grifting web 3.0 bros. Much has been lost.
 
 **Join the movement:** spin up a website on NeoCities.
 It's not too hard and help is always around.
