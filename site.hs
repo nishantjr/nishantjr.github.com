@@ -44,7 +44,6 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/comments.html" postContext
                 >>= loadAndApplyTemplate "templates/default.html"  ((navCtx id) <> postContext)
 
-
     create ["atom.xml"] $ do
         route idRoute
         compile $ do

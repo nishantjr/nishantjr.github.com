@@ -1,5 +1,5 @@
 ---
-title: "Kashmir & Ladhak"
+title: "Kashmir &amp; Ladhak"
 cover: fuji
 description: >
     Cycling from Srinagar to Leh.
