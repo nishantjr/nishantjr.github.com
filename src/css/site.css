@@ -38,6 +38,8 @@ h2 {
     text-transform: uppercase;
 }
 
+h3 { margin-top: 1em; }
+
 #content {
     background-color: rgba(256, 256, 256, 0.7);
     padding: 1em;
@@ -67,18 +69,19 @@ h2 {
     color: white;
 }
 #side-bar ul { margin-left: 4px; }
-#side-bar li a:hover {
-    text-decoration: underline;
-}
 #side-bar li {
     margin: 0.2em 0 0.2em 0;
     list-style-type: none;
 }
-a:link { text-decoration: none; }
 #side-bar .date {
     font-size: 0.6em;
     color: #777;
 }
+
+#side-bar a:hover {
+    text-decoration: underline;
+}
+a:link { text-decoration: none; }
 
 #side-bar address {
     margin-top: 5px; margin-bottom: 5px;
@@ -95,3 +98,7 @@ a:link { text-decoration: none; }
     color: #444;
     font-size: 90%;
 }
+
+
+dt  { font-style: italic; padding-right: 1em; }
+dd  { padding-left: 2em; }
