@@ -4,6 +4,8 @@
 /* Center when window is wider than 1000px. */
 body        { margin: auto; max-width: 1000px }
 
+
+
 /* Body contains `#side-bar`, a sidebar containing the navigation links,
  * and the main `#content` div. We keep the max-width of the content at 600px
  * for readability.
@@ -42,3 +44,26 @@ body        { max-width: 600px;
 #side-bar   { order: 2; }
 }
 
+
+/* We use the cover image as the background for <body>.
+ * To make space for it we add some padding above the page's content.
+ * This padding gets a bit much on smaller screens, so we make it proportional
+ * to the view port size. 50% is still a bit much, but I'm guessing few phones
+ * are as small as my Jelly Star. The proportion was chosen so that there
+ * is no sharp jump in the content's layout during the resize.
+ * (i.e. 50% of 800 = 400, the absolute value used the larger screen case).
+ * Note that there is unfortunately still a jump in the background's position.
+ * I couldn't figure out how to fix that without an arithmetic expression
+ * that uses mixed units (-100px + 12.5vh is what I need, I think).
+ */
+body        { background-repeat: no-repeat; }
+@media (height < 800px) {
+body        { background-position: center -100px;
+              padding-top: 50vh;
+            }
+}
+@media (height > 800px) {
+body        { background-position: center 0px;
+              padding-top: 400px;
+            }
+}

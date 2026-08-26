@@ -1,11 +1,4 @@
 /* Styling */
-body {
-    background-repeat: no-repeat;
-    background-position: center -100px;
-    padding-top: 300px;
-}
-
-
 #title {
     font-size: 1.4em;
     color: #c44;

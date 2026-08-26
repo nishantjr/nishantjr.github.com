@@ -35,7 +35,7 @@ Disclaimers:
   - I may use LLMs for research to inform my writing.
 * AI in Art [(rationale)](#rationale-ai-art)
   - I will *not* use AI for any artistic creation of my own
-  - I will only patronise (e.g. buying, liking on instagram...)
+  - I will only patronise (e.g. buying, liking on Instagram...)
     artwork that has substantial and transformative human contributions.
 
 
@@ -62,7 +62,7 @@ Techno-colonialism
   seems to be having the means of (digital) creation in their control.
 
 Disregard for intellectual property
-: LLMs have been trained on copyrighted art and litrature, pirated books, GPL-licensed
+: LLMs have been trained on copyrighted art and literature, pirated books, GPL-licensed
   code, scientific papers, and so on. Whether or not this usage is legal, it is
   non-consenting. There also seems to be a [two-tier justice system for
   enforcement copyright law][us-v-swartz].
@@ -82,8 +82,8 @@ Disregard for intellectual property
     we may bring upon the most vulnerable in our society.
 
     I cannot object to AI in direct terms of its carbon usage because that would
-    be deeply hypocrytical and come from a perspective of great privelage.
-    I have used trans-contenental flights to enrich myself in terms of my education
+    be deeply hypocritical and come from a perspective of great privilege.
+    I have used trans-continental flights to enrich myself in terms of my education
     and personal enjoyment. Though perhaps I also need a personal "climate policy".
 
     My main objections to AI in aspects such as eminent domain being used
@@ -100,12 +100,19 @@ Inequity (unequal costs)
 : It is inexcusable the Indian goverment is using eminent domain to build data
   centers.
 
+Incentive to addict
+: Similar to social media, getting users addicted seems to be in these companies
+  interest. This seems far more worrying and dangerous than the case with
+  social media, with cognitive offloading. If I use this tool regularly
+  I think I can slowly slide into this mode of interacting with it.
+  Not paying for the tool is one (perhaps crude) method of adding friction.
 
+<!--
 Action Points:
 
 * stop paying Google for Google Drive. While I am not paying for AI usage, the
   contribution nethertheless helps them train LLMs.
-
+-->
 
 ### Rationale: AI in Software Development {#rationale-ai-software}
 
@@ -139,16 +146,16 @@ I find the approach of:
 2. Write the code yourself
 3. Ask the LLM for a review
 
-This approach lets you muddle along, learning the tool in the process, but
-puts you back on the idiomatic path through the review. You have a much
+This approach lets me muddle along, learning the tool in the process, but
+puts me back on the idiomatic path through the review. I have a much
 more in-depth understanding of how and why things are the way they are.
 The approach of: 1. The LLM writes; 2. I review; feels like learning
-glass blowing purely through watching Youtube videos. While you will get some
+glass blowing purely through watching YouTube videos. While you will get some
 understanding, you'd be clumsy at best if you tried to do it yourself.
 
 Postscript: Perhaps at some point AI will get so good that we can trust its code without
 review and let it write and evolve full applications on its own,  but I do not
-think that day is today, and I do not think that tech is this iteration
+think that day is today, and I do not think that that tech is this iteration
 of AI.
 
 ### Rationale: AI in writing {#rationale-ai-writing}
