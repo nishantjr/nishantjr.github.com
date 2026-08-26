@@ -4,6 +4,15 @@ trap 'x=$?; echo 1>&2 "FAILED ($x)."; exit $x' 0
 
 die() { local exitcode="$1"; shift; echo 1>&2 "$@"; trap '' 0; exit $exitcode; }
 
+clean_small() {
+    rm -r _site/ dist-newstyle/
+}
+
+clean_big() {
+    clean_small
+    rm -rf _cache/ .build/
+}
+
 set_prod_release_branch() {
     curbranch=$(git rev-parse --abbrev-ref HEAD)
     [[ $curbranch = main ]] || die 1 \
@@ -39,9 +48,13 @@ _____
     exit 2
 }
 
+basedir=$(cd "$(dirname "$0")" && pwd -P)
+cd "$basedir"
+
 test_only=false
 while true; do case "$1" in
-    -C)                 shift; git clean -fdX;;
+    -c)                 shift; clean_small;;
+    -C)                 shift; clean_big;;
     --prod-release)     shift; set_prod_release_branch;;
     --dev-release)      shift; set_dev_release_branch;;
     -h|--help)          shift; usage;;
@@ -50,9 +63,6 @@ while true; do case "$1" in
     *)                  break;;
 esac; done
 [[ ${#@} -eq 0 ]] || usage "extra arguments:" "$@"
-
-basedir=$(cd "$(dirname "$0")" && pwd -P)
-cd "$basedir"
 
 cabal build
 if ! $test_only; then
