@@ -1,10 +1,8 @@
-/* Structural elements of the website */
-
+/* Structural elements of the website 
+ * ---------------------------------- */
 
 /* Center when window is wider than 1000px. */
 body        { margin: auto; max-width: 1000px }
-
-
 
 /* Body contains `#side-bar`, a sidebar containing the navigation links,
  * and the main `#content` div. We keep the max-width of the content at 600px
