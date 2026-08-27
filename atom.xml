@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nishant's Blog</title>
+    <subtitle><![CDATA[Just some ramblings]]></subtitle>
     <link href="https://nishantjr.github.io//atom.xml" rel="self" />
     <link href="https://nishantjr.github.io/" />
     <id>https://nishantjr.github.io//atom.xml</id>
@@ -28,7 +29,7 @@
     <summary type="html"><![CDATA[The Danda Coastal Road, the only coastal road I can love.]]></summary>
 </entry>
 <entry>
-    <title>Kashmir & Ladhak</title>
+    <title>Kashmir &amp; Ladhak</title>
     <link href="https://nishantjr.github.io//blog/2015/10/03/kashmir-and-ladhak-1/" />
     <id>https://nishantjr.github.io//blog/2015/10/03/kashmir-and-ladhak-1/</id>
     <published>2015-10-03T00:00:00Z</published>
