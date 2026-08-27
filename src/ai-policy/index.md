@@ -29,7 +29,8 @@ Disclaimers:
   - I may use AI for code review and bug finding
   - I will *not* use AI for substantial code synthesis
   - I will *not* review or accept AI contributions, unless the contributor accepts
-    responsibilty for the code as if they had written and reviewed it in full.
+    responsibilty for the code as if they had written and reviewed it in full,
+    and their reputation is on the line.
 * LLMs in writing [(rationale)](#rationale-ai-writing)
   - I will *not* use LLMs to write or communicate in any way.
   - I may use LLMs for research to inform my writing.
